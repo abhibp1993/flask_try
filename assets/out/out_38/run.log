@@ -1,0 +1,117 @@
+2023-11-15 13:00:01.490 | DEBUG    | translate:build_prefltlf_model:109 - Constructed preorder except incomparability: 
+{(F(a), F(b))}
+2023-11-15 13:00:01.491 | DEBUG    | translate:build_prefltlf_model:123 - Constructed preorder: 
+{(F(a), F(b))}
+2023-11-15 13:00:01.491 | DEBUG    | translate:build_prefltlf_model:138 - Reflexive closure of preorder: 
+[('F(a)', 'F(b)'), ('F(b)', 'F(b)'), ('F(a)', 'F(a)')]
+2023-11-15 13:00:01.492 | DEBUG    | translate:build_prefltlf_model:142 - Transitive closure of preorder: 
+[('F(a)', 'F(b)'), ('F(b)', 'F(b)'), ('F(a)', 'F(a)')]
+2023-11-15 13:00:01.493 | INFO     | __main__:update_images:156 - Model: 
+Atoms:
+	['a', 'b']
+Phi:
+	F(a)
+	F(b)
+Preorder:
+	F(a) >= F(b)
+	F(b) >= F(b)
+	F(a) >= F(a)
+
+2023-11-15 13:00:01.534 | INFO     | translate:translate:221 - DFA(F(a)): 
+{'final_states': {'2'},
+ 'init_state': '1',
+ 'states': {'1', '2'},
+ 'transitions': {'1': {'a': '2', '~a': '1'}, '2': {'true': '2'}}}
+2023-11-15 13:00:01.556 | INFO     | translate:translate:221 - DFA(F(b)): 
+{'final_states': {'2'},
+ 'init_state': '1',
+ 'states': {'1', '2'},
+ 'transitions': {'1': {'b': '2', '~b': '1'}, '2': {'true': '2'}}}
+2023-11-15 13:00:01.836 | DEBUG    | translate:union_product:309 - [('1', '1')] 
+	Guard: ('a', 'b'), 
+	LabelJoin: (a) & (b), 
+	Label: a & b
+2023-11-15 13:00:01.839 | DEBUG    | translate:union_product:309 - [('1', '1')] 
+	Guard: ('a', '~b'), 
+	LabelJoin: (a) & (~b), 
+	Label: a & ~b
+2023-11-15 13:00:01.841 | DEBUG    | translate:union_product:309 - [('1', '1')] 
+	Guard: ('~a', 'b'), 
+	LabelJoin: (~a) & (b), 
+	Label: b & ~a
+2023-11-15 13:00:01.843 | DEBUG    | translate:union_product:309 - [('1', '1')] 
+	Guard: ('~a', '~b'), 
+	LabelJoin: (~a) & (~b), 
+	Label: ~a & ~b
+2023-11-15 13:00:01.844 | DEBUG    | translate:union_product:309 - [('1', '2')] 
+	Guard: ('a', 'true'), 
+	LabelJoin: (a) & (true), 
+	Label: a
+2023-11-15 13:00:01.846 | DEBUG    | translate:union_product:309 - [('1', '2')] 
+	Guard: ('~a', 'true'), 
+	LabelJoin: (~a) & (true), 
+	Label: ~a
+2023-11-15 13:00:01.847 | DEBUG    | translate:union_product:309 - [('2', '2')] 
+	Guard: ('true', 'true'), 
+	LabelJoin: (true) & (true), 
+	Label: True
+2023-11-15 13:00:01.848 | DEBUG    | translate:union_product:309 - [('2', '1')] 
+	Guard: ('true', 'b'), 
+	LabelJoin: (true) & (b), 
+	Label: b
+2023-11-15 13:00:01.849 | DEBUG    | translate:union_product:309 - [('2', '1')] 
+	Guard: ('true', '~b'), 
+	LabelJoin: (true) & (~b), 
+	Label: ~b
+2023-11-15 13:00:01.850 | DEBUG    | translate:union_product:309 - [('2', '2')] 
+	Guard: ('true', 'true'), 
+	LabelJoin: (true) & (true), 
+	Label: True
+2023-11-15 13:00:01.851 | INFO     | translate:translate:228 - Union product DFA: 
+{'final_states': {0, 2, 3},
+ 'init_state': 1,
+ 'states': {0: {'state': ('2', '2')},
+            1: {'state': ('1', '1')},
+            2: {'state': ('2', '1')},
+            3: {'state': ('1', '2')}},
+ 'transitions': {0: {'true': 0},
+                 1: {'!a & !b': 1, 'a & !b': 2, 'a & b': 0, 'b & !a': 3},
+                 2: {'!b': 2, 'b': 0},
+                 3: {'!a': 3, 'a': 0}}}
+2023-11-15 13:00:01.851 | DEBUG    | translate:construct_pref_graph:360 - outcomes(('2', '2'))={0, 1}
+2023-11-15 13:00:01.852 | DEBUG    | translate:construct_pref_graph:363 - get_mp_outcomes({0, 1}, [(0, 1), (1, 1), (0, 0)])={0}
+2023-11-15 13:00:01.852 | DEBUG    | translate:construct_pref_graph:360 - outcomes(('2', '1'))={0}
+2023-11-15 13:00:01.853 | DEBUG    | translate:construct_pref_graph:363 - get_mp_outcomes({0}, [(0, 1), (1, 1), (0, 0)])={0}
+2023-11-15 13:00:01.853 | DEBUG    | translate:construct_pref_graph:360 - outcomes(('1', '2'))={1}
+2023-11-15 13:00:01.854 | DEBUG    | translate:construct_pref_graph:363 - get_mp_outcomes({1}, [(0, 1), (1, 1), (0, 0)])={1}
+2023-11-15 13:00:01.854 | INFO     | translate:translate:231 - Preference graph: 
+{'edges': {'(0, 0)': {'(1, 0)', '(0, 1)', '(0, 0)'},
+           '(0, 1)': {'(1, 0)', '(0, 1)'},
+           '(1, 0)': {'(1, 0)'}},
+ 'nodes': {'(0, 0)': {1}, '(0, 1)': {3}, '(1, 0)': {0, 2}}}
+2023-11-15 13:00:01.985 | INFO     | __main__:update_images:215 - ====== TRANSLATION COMPLETED IN 365.2031 MILLISECONDS =====
+2023-11-15 13:00:01.985 | INFO     | __main__:update_images:216 - States:
+{0: {'state': ('2', '2')},
+ 1: {'state': ('1', '1')},
+ 2: {'state': ('2', '1')},
+ 3: {'state': ('1', '2')}}
+
+Alphabet:
+['a', 'b']
+
+Transitions:
+{0: {'true': 0},
+ 1: {'!a & !b': 1, 'a & !b': 2, 'a & b': 0, 'b & !a': 3},
+ 2: {'!b': 2, 'b': 0},
+ 3: {'!a': 3, 'a': 0}}
+
+Initial state:
+1
+
+Preference graph:
+{'edges': {'(0, 0)': {'(1, 0)', '(0, 1)', '(0, 0)'},
+           '(0, 1)': {'(1, 0)', '(0, 1)'},
+           '(1, 0)': {'(1, 0)'}},
+ 'nodes': {'(0, 0)': {1}, '(0, 1)': {3}, '(1, 0)': {0, 2}}}
+
+

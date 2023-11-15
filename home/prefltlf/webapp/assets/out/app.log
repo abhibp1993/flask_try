@@ -1,0 +1,2284 @@
+2023-10-25 10:44:04.495 | INFO     | __main__:<module>:9 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa']
+2023-10-25 10:44:15.849 | INFO     | __main__:<module>:9 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa']
+2023-10-25 10:47:54.113 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 12:40:00.793 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 12:40:54.252 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 12:41:25.611 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 12:41:42.825 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 12:41:59.458 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 12:57:14.168 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 12:58:11.120 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 12:58:24.801 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 12:58:55.947 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 13:01:46.060 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 13:02:26.104 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 13:03:36.795 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 13:03:57.140 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 13:04:30.641 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 13:04:44.697 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 13:05:13.980 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 13:05:39.255 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 13:06:17.233 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 13:10:42.411 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 13:14:15.919 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 14:06:27.850 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 14:07:53.417 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 14:08:14.472 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 14:09:48.614 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 14:09:50.784 | INFO     | app2:translate:235 - init button click
+2023-10-25 14:10:46.286 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 14:10:47.690 | INFO     | app2:translate:235 - init button click
+2023-10-25 14:11:15.295 | ERROR    | app2:translate:316 - No terminal matches '>' in the current parser context, at line 1 col 1
+
+>, 0, 1
+^
+Expected one of: 
+	* WEAK_NEXT
+	* pl__TRUE
+	* ALWAYS
+	* NOT
+	* LAST
+	* NEXT
+	* LSEPARATOR
+	* EVENTUALLY
+	* SYMBOL_NAME
+	* pl__FALSE
+
+Traceback (most recent call last):
+
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 486, in lex
+    token = self.root_lexer.next_token(lexer_state, parser_state)
+            │    │          │          │            └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b104faac0>
+            │    │          │          └ <lark.lexer.LexerState object at 0x7f5b0fa4ce00>
+            │    │          └ <function TraditionalLexer.next_token at 0x7f5b0fbb3100>
+            │    └ <lark.lexer.TraditionalLexer object at 0x7f5b1005d0d0>
+            └ <lark.lexer.ContextualLexer object at 0x7f5b0facf7d0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 398, in next_token
+    raise UnexpectedCharacters(lex_state.text, line_ctr.char_pos, line_ctr.line, line_ctr.column,
+          │                    │         │     │        │         │        │     │        └ <member 'column' of 'LineCounter' objects>
+          │                    │         │     │        │         │        │     └ <lark.lexer.LineCounter object at 0x7f5b104d49f0>
+          │                    │         │     │        │         │        └ <member 'line' of 'LineCounter' objects>
+          │                    │         │     │        │         └ <lark.lexer.LineCounter object at 0x7f5b104d49f0>
+          │                    │         │     │        └ <member 'char_pos' of 'LineCounter' objects>
+          │                    │         │     └ <lark.lexer.LineCounter object at 0x7f5b104d49f0>
+          │                    │         └ <member 'text' of 'LexerState' objects>
+          │                    └ <lark.lexer.LexerState object at 0x7f5b0fa4ce00>
+          └ <class 'lark.exceptions.UnexpectedCharacters'>
+
+lark.exceptions.UnexpectedCharacters: No terminal matches '>' in the current parser context, at line 1 col 1
+
+>, 0, 1
+^
+Expected one of: 
+	* pl__TRUE
+	* NOT
+	* LSEPARATOR
+	* LAST
+	* EVENTUALLY
+	* SYMBOL_NAME
+	* AND
+	* EQUIVALENCE
+	* OR
+	* WEAK_NEXT
+	* RSEPARATOR
+	* ALWAYS
+	* NEXT
+	* pl__FALSE
+	* UNTIL
+	* IMPLY
+	* RELEASE
+
+
+
+During handling of the above exception, another exception occurred:
+
+
+Traceback (most recent call last):
+
+  File "/home/abhibp1993/miniconda3/lib/python3.11/threading.py", line 995, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7f5b744d8860>
+    └ <Thread(Thread-9 (process_request_thread), started daemon 140029080512256)>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/threading.py", line 1038, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x7f5b744d8540>
+    └ <Thread(Thread-9 (process_request_thread), started daemon 140029080512256)>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/threading.py", line 975, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(Thread-9 (process_request_thread), started daemon 140029080512256)>
+    │    │        │    └ (<socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 5080), raddr=('127.0.0.1', 35178)>, ('127.0.0.1', 35178))
+    │    │        └ <Thread(Thread-9 (process_request_thread), started daemon 140029080512256)>
+    │    └ <bound method ThreadingMixIn.process_request_thread of <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>>
+    └ <Thread(Thread-9 (process_request_thread), started daemon 140029080512256)>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+    │    │              │        └ ('127.0.0.1', 35178)
+    │    │              └ <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 5080), raddr=('127.0.0.1', 35178)>
+    │    └ <function BaseServer.finish_request at 0x7f5b12401120>
+    └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    │    │                   │        │               └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+    │    │                   │        └ ('127.0.0.1', 35178)
+    │    │                   └ <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 5080), raddr=('127.0.0.1', 35178)>
+    │    └ <class 'werkzeug.serving.WSGIRequestHandler'>
+    └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+    │    └ <function WSGIRequestHandler.handle at 0x7f5b121dec00>
+    └ <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0feda850>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/werkzeug/serving.py", line 361, in handle
+    super().handle()
+  File "/home/abhibp1993/miniconda3/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+    │    └ <function BaseHTTPRequestHandler.handle_one_request at 0x7f5b121b7100>
+    └ <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0feda850>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+    └ <bound method WSGIRequestHandler.run_wsgi of <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0feda850>>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/werkzeug/serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+    │       │    │      └ <Flask 'app2'>
+    │       │    └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+    │       └ <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0feda850>
+    └ <function WSGIRequestHandler.run_wsgi.<locals>.execute at 0x7f5b0fa1afc0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/werkzeug/serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+                       │   │        └ <function WSGIRequestHandler.run_wsgi.<locals>.start_response at 0x7f5b0fa19bc0>
+                       │   └ {'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=5>, 'wsgi.errors': <_io.TextIOWrap...
+                       └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <function WSGIRequestHandler.run_wsgi.<locals>.start_response at 0x7f5b0fa19bc0>
+           │    │        └ {'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=5>, 'wsgi.errors': <_io.TextIOWrap...
+           │    └ <function Flask.wsgi_app at 0x7f5b11cbee80>
+           └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f5b11cbe2a0>
+               └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f5b11cbe200>
+         └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f5b0fb1d440>, '_dash_assets.static': <bound method Scaffold.send_...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f5b11cbe520>
+           └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of '_contextvars.Context' objects>
+    └ <_contextvars.Context object at 0x7f5b1005c8c0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [1, 'prefltlf 4\nF(a)\nF(b)\n>, 0, 1', None, ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot', ['pdfa2p...
+                   └ <function translate at 0x7f5b0fa19a80>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 250, in translate
+    spec = translate2.PrefLTLf(text_spec, alphabet=alphabet)
+           │          │        │                   └ None
+           │          │        └ 'prefltlf 4\nF(a)\nF(b)\n>, 0, 1'
+           │          └ <class 'translate2.PrefLTLf'>
+           └ <module 'translate2' from '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantit...
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/translate2.py", line 106, in __init__
+    self.parse()
+    │    └ <function PrefLTLf.parse at 0x7f5b0fb16de0>
+    └ <PrefLTLf Formula at 140029081471312>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/translate2.py", line 148, in parse
+    self.atoms, self.phi = self._parse_ltlf(raw_spec[1:num_ltlf + 1])
+    │    │      │    │     │    │           │          └ 4
+    │    │      │    │     │    │           └ ['prefltlf 4', 'F(a)', 'F(b)', '>, 0, 1']
+    │    │      │    │     │    └ <function PrefLTLf._parse_ltlf at 0x7f5b0fb16980>
+    │    │      │    │     └ <PrefLTLf Formula at 140029081471312>
+    │    │      │    └ []
+    │    │      └ <PrefLTLf Formula at 140029081471312>
+    │    └ set()
+    └ <PrefLTLf Formula at 140029081471312>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/translate2.py", line 191, in _parse_ltlf
+    ltlf = PARSER(formula.strip())
+           │      │       └ <method 'strip' of 'str' objects>
+           │      └ '>, 0, 1'
+           └ <ltlf2dfa.parser.ltlf.LTLfParser object at 0x7f5b11390f10>
+
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/ltlf2dfa/parser/ltlf.py", line 223, in __call__
+    tree = self._parser.parse(text)
+           │    │       │     └ '>, 0, 1'
+           │    │       └ <function Lark.parse at 0x7f5b0fc65f80>
+           │    └ Lark(open('/home/abhibp1993/miniconda3/lib/python3.11/site-packages/ltlf2dfa/parser/ltlf.lark'), parser='lalr', lexer='contex...
+           └ <ltlf2dfa.parser.ltlf.LTLfParser object at 0x7f5b11390f10>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lark.py", line 581, in parse
+    return self.parser.parse(text, start=start, on_error=on_error)
+           │    │      │     │           │               └ None
+           │    │      │     │           └ None
+           │    │      │     └ '>, 0, 1'
+           │    │      └ <function ParsingFrontend.parse at 0x7f5b0fc61080>
+           │    └ <lark.parser_frontends.ParsingFrontend object at 0x7f5b10688c50>
+           └ Lark(open('/home/abhibp1993/miniconda3/lib/python3.11/site-packages/ltlf2dfa/parser/ltlf.lark'), parser='lalr', lexer='contex...
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parser_frontends.py", line 106, in parse
+    return self.parser.parse(stream, chosen_start, **kw)
+           │    │      │     │       │               └ {}
+           │    │      │     │       └ 'start'
+           │    │      │     └ <lark.lexer.LexerThread object at 0x7f5b10e39290>
+           │    │      └ <function LALR_Parser.parse at 0x7f5b0fc60360>
+           │    └ <lark.parsers.lalr_parser.LALR_Parser object at 0x7f5b104ccb10>
+           └ <lark.parser_frontends.ParsingFrontend object at 0x7f5b10688c50>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 41, in parse
+    return self.parser.parse(lexer, start)
+           │    │      │     │      └ 'start'
+           │    │      │     └ <lark.lexer.LexerThread object at 0x7f5b10e39290>
+           │    │      └ <function _Parser.parse at 0x7f5b0fc60900>
+           │    └ <lark.parsers.lalr_parser._Parser object at 0x7f5b0fb063d0>
+           └ <lark.parsers.lalr_parser.LALR_Parser object at 0x7f5b104ccb10>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 171, in parse
+    return self.parse_from_state(parser_state)
+           │    │                └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b104faac0>
+           │    └ <function _Parser.parse_from_state at 0x7f5b0fc609a0>
+           └ <lark.parsers.lalr_parser._Parser object at 0x7f5b0fb063d0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 188, in parse_from_state
+    raise e
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 178, in parse_from_state
+    for token in state.lexer.lex(state):
+        │        │     │         └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b104faac0>
+        │        │     └ <member 'lexer' of 'ParserState' objects>
+        │        └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b104faac0>
+        └ None
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 489, in lex
+    raise e  # Raise the original UnexpectedCharacters. The root lexer raises it with the wrong expected set.
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 478, in lex
+    yield lexer.next_token(lexer_state, parser_state)
+          │     │          │            └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b104faac0>
+          │     │          └ <lark.lexer.LexerState object at 0x7f5b0fa4ce00>
+          │     └ <function TraditionalLexer.next_token at 0x7f5b0fbb3100>
+          └ <lark.lexer.TraditionalLexer object at 0x7f5b0facced0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 398, in next_token
+    raise UnexpectedCharacters(lex_state.text, line_ctr.char_pos, line_ctr.line, line_ctr.column,
+          │                    │         │     │        │         │        │     │        └ <member 'column' of 'LineCounter' objects>
+          │                    │         │     │        │         │        │     └ <lark.lexer.LineCounter object at 0x7f5b104d49f0>
+          │                    │         │     │        │         │        └ <member 'line' of 'LineCounter' objects>
+          │                    │         │     │        │         └ <lark.lexer.LineCounter object at 0x7f5b104d49f0>
+          │                    │         │     │        └ <member 'char_pos' of 'LineCounter' objects>
+          │                    │         │     └ <lark.lexer.LineCounter object at 0x7f5b104d49f0>
+          │                    │         └ <member 'text' of 'LexerState' objects>
+          │                    └ <lark.lexer.LexerState object at 0x7f5b0fa4ce00>
+          └ <class 'lark.exceptions.UnexpectedCharacters'>
+
+lark.exceptions.UnexpectedCharacters: No terminal matches '>' in the current parser context, at line 1 col 1
+
+>, 0, 1
+^
+Expected one of: 
+	* WEAK_NEXT
+	* pl__TRUE
+	* ALWAYS
+	* NOT
+	* LAST
+	* NEXT
+	* LSEPARATOR
+	* EVENTUALLY
+	* SYMBOL_NAME
+	* pl__FALSE
+
+2023-10-25 14:11:24.107 | ERROR    | app2:translate:316 - No terminal matches '>' in the current parser context, at line 1 col 1
+
+>, 0, 1
+^
+Expected one of: 
+	* WEAK_NEXT
+	* pl__TRUE
+	* ALWAYS
+	* NOT
+	* LAST
+	* NEXT
+	* LSEPARATOR
+	* EVENTUALLY
+	* SYMBOL_NAME
+	* pl__FALSE
+
+Traceback (most recent call last):
+
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 486, in lex
+    token = self.root_lexer.next_token(lexer_state, parser_state)
+            │    │          │          │            └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b0e97cf80>
+            │    │          │          └ <lark.lexer.LexerState object at 0x7f5b0e97d240>
+            │    │          └ <function TraditionalLexer.next_token at 0x7f5b0fbb3100>
+            │    └ <lark.lexer.TraditionalLexer object at 0x7f5b1005d0d0>
+            └ <lark.lexer.ContextualLexer object at 0x7f5b0facf7d0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 398, in next_token
+    raise UnexpectedCharacters(lex_state.text, line_ctr.char_pos, line_ctr.line, line_ctr.column,
+          │                    │         │     │        │         │        │     │        └ <member 'column' of 'LineCounter' objects>
+          │                    │         │     │        │         │        │     └ <lark.lexer.LineCounter object at 0x7f5b0e96eb10>
+          │                    │         │     │        │         │        └ <member 'line' of 'LineCounter' objects>
+          │                    │         │     │        │         └ <lark.lexer.LineCounter object at 0x7f5b0e96eb10>
+          │                    │         │     │        └ <member 'char_pos' of 'LineCounter' objects>
+          │                    │         │     └ <lark.lexer.LineCounter object at 0x7f5b0e96eb10>
+          │                    │         └ <member 'text' of 'LexerState' objects>
+          │                    └ <lark.lexer.LexerState object at 0x7f5b0e97d240>
+          └ <class 'lark.exceptions.UnexpectedCharacters'>
+
+lark.exceptions.UnexpectedCharacters: No terminal matches '>' in the current parser context, at line 1 col 1
+
+>, 0, 1
+^
+Expected one of: 
+	* pl__TRUE
+	* NOT
+	* LSEPARATOR
+	* LAST
+	* EVENTUALLY
+	* SYMBOL_NAME
+	* AND
+	* EQUIVALENCE
+	* OR
+	* WEAK_NEXT
+	* RSEPARATOR
+	* ALWAYS
+	* NEXT
+	* pl__FALSE
+	* UNTIL
+	* IMPLY
+	* RELEASE
+
+
+
+During handling of the above exception, another exception occurred:
+
+
+Traceback (most recent call last):
+
+  File "/home/abhibp1993/miniconda3/lib/python3.11/threading.py", line 995, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7f5b744d8860>
+    └ <Thread(Thread-10 (process_request_thread), started daemon 140029080512256)>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/threading.py", line 1038, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x7f5b744d8540>
+    └ <Thread(Thread-10 (process_request_thread), started daemon 140029080512256)>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/threading.py", line 975, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(Thread-10 (process_request_thread), started daemon 140029080512256)>
+    │    │        │    └ (<socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 5080), raddr=('127.0.0.1', 35180)>, ('127.0.0.1', 35180))
+    │    │        └ <Thread(Thread-10 (process_request_thread), started daemon 140029080512256)>
+    │    └ <bound method ThreadingMixIn.process_request_thread of <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>>
+    └ <Thread(Thread-10 (process_request_thread), started daemon 140029080512256)>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+    │    │              │        └ ('127.0.0.1', 35180)
+    │    │              └ <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 5080), raddr=('127.0.0.1', 35180)>
+    │    └ <function BaseServer.finish_request at 0x7f5b12401120>
+    └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    │    │                   │        │               └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+    │    │                   │        └ ('127.0.0.1', 35180)
+    │    │                   └ <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 5080), raddr=('127.0.0.1', 35180)>
+    │    └ <class 'werkzeug.serving.WSGIRequestHandler'>
+    └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+    │    └ <function WSGIRequestHandler.handle at 0x7f5b121dec00>
+    └ <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0e8c2b50>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/werkzeug/serving.py", line 361, in handle
+    super().handle()
+  File "/home/abhibp1993/miniconda3/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+    │    └ <function BaseHTTPRequestHandler.handle_one_request at 0x7f5b121b7100>
+    └ <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0e8c2b50>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+    └ <bound method WSGIRequestHandler.run_wsgi of <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0e8c2b50>>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/werkzeug/serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+    │       │    │      └ <Flask 'app2'>
+    │       │    └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+    │       └ <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0e8c2b50>
+    └ <function WSGIRequestHandler.run_wsgi.<locals>.execute at 0x7f5b0e970680>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/werkzeug/serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+                       │   │        └ <function WSGIRequestHandler.run_wsgi.<locals>.start_response at 0x7f5b0e970540>
+                       │   └ {'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=5>, 'wsgi.errors': <_io.TextIOWrap...
+                       └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <function WSGIRequestHandler.run_wsgi.<locals>.start_response at 0x7f5b0e970540>
+           │    │        └ {'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=5>, 'wsgi.errors': <_io.TextIOWrap...
+           │    └ <function Flask.wsgi_app at 0x7f5b11cbee80>
+           └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f5b11cbe2a0>
+               └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f5b11cbe200>
+         └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f5b0fb1d440>, '_dash_assets.static': <bound method Scaffold.send_...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f5b11cbe520>
+           └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of '_contextvars.Context' objects>
+    └ <_contextvars.Context object at 0x7f5b0e97ca40>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [2, 'prefltlf 4\nF(a)\nF(b)\n>, 0, 1', None, ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot', ['pdfa2p...
+                   └ <function translate at 0x7f5b0fa19a80>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 250, in translate
+    spec = translate2.PrefLTLf(text_spec, alphabet=alphabet)
+           │          │        │                   └ None
+           │          │        └ 'prefltlf 4\nF(a)\nF(b)\n>, 0, 1'
+           │          └ <class 'translate2.PrefLTLf'>
+           └ <module 'translate2' from '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantit...
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/translate2.py", line 106, in __init__
+    self.parse()
+    │    └ <function PrefLTLf.parse at 0x7f5b0fb16de0>
+    └ <PrefLTLf Formula at 140029063580752>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/translate2.py", line 148, in parse
+    self.atoms, self.phi = self._parse_ltlf(raw_spec[1:num_ltlf + 1])
+    │    │      │    │     │    │           │          └ 4
+    │    │      │    │     │    │           └ ['prefltlf 4', 'F(a)', 'F(b)', '>, 0, 1']
+    │    │      │    │     │    └ <function PrefLTLf._parse_ltlf at 0x7f5b0fb16980>
+    │    │      │    │     └ <PrefLTLf Formula at 140029063580752>
+    │    │      │    └ []
+    │    │      └ <PrefLTLf Formula at 140029063580752>
+    │    └ set()
+    └ <PrefLTLf Formula at 140029063580752>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/translate2.py", line 191, in _parse_ltlf
+    ltlf = PARSER(formula.strip())
+           │      │       └ <method 'strip' of 'str' objects>
+           │      └ '>, 0, 1'
+           └ <ltlf2dfa.parser.ltlf.LTLfParser object at 0x7f5b11390f10>
+
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/ltlf2dfa/parser/ltlf.py", line 223, in __call__
+    tree = self._parser.parse(text)
+           │    │       │     └ '>, 0, 1'
+           │    │       └ <function Lark.parse at 0x7f5b0fc65f80>
+           │    └ Lark(open('/home/abhibp1993/miniconda3/lib/python3.11/site-packages/ltlf2dfa/parser/ltlf.lark'), parser='lalr', lexer='contex...
+           └ <ltlf2dfa.parser.ltlf.LTLfParser object at 0x7f5b11390f10>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lark.py", line 581, in parse
+    return self.parser.parse(text, start=start, on_error=on_error)
+           │    │      │     │           │               └ None
+           │    │      │     │           └ None
+           │    │      │     └ '>, 0, 1'
+           │    │      └ <function ParsingFrontend.parse at 0x7f5b0fc61080>
+           │    └ <lark.parser_frontends.ParsingFrontend object at 0x7f5b10688c50>
+           └ Lark(open('/home/abhibp1993/miniconda3/lib/python3.11/site-packages/ltlf2dfa/parser/ltlf.lark'), parser='lalr', lexer='contex...
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parser_frontends.py", line 106, in parse
+    return self.parser.parse(stream, chosen_start, **kw)
+           │    │      │     │       │               └ {}
+           │    │      │     │       └ 'start'
+           │    │      │     └ <lark.lexer.LexerThread object at 0x7f5b0e97d110>
+           │    │      └ <function LALR_Parser.parse at 0x7f5b0fc60360>
+           │    └ <lark.parsers.lalr_parser.LALR_Parser object at 0x7f5b104ccb10>
+           └ <lark.parser_frontends.ParsingFrontend object at 0x7f5b10688c50>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 41, in parse
+    return self.parser.parse(lexer, start)
+           │    │      │     │      └ 'start'
+           │    │      │     └ <lark.lexer.LexerThread object at 0x7f5b0e97d110>
+           │    │      └ <function _Parser.parse at 0x7f5b0fc60900>
+           │    └ <lark.parsers.lalr_parser._Parser object at 0x7f5b0fb063d0>
+           └ <lark.parsers.lalr_parser.LALR_Parser object at 0x7f5b104ccb10>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 171, in parse
+    return self.parse_from_state(parser_state)
+           │    │                └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b0e97cf80>
+           │    └ <function _Parser.parse_from_state at 0x7f5b0fc609a0>
+           └ <lark.parsers.lalr_parser._Parser object at 0x7f5b0fb063d0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 188, in parse_from_state
+    raise e
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 178, in parse_from_state
+    for token in state.lexer.lex(state):
+        │        │     │         └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b0e97cf80>
+        │        │     └ <member 'lexer' of 'ParserState' objects>
+        │        └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b0e97cf80>
+        └ None
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 489, in lex
+    raise e  # Raise the original UnexpectedCharacters. The root lexer raises it with the wrong expected set.
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 478, in lex
+    yield lexer.next_token(lexer_state, parser_state)
+          │     │          │            └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b0e97cf80>
+          │     │          └ <lark.lexer.LexerState object at 0x7f5b0e97d240>
+          │     └ <function TraditionalLexer.next_token at 0x7f5b0fbb3100>
+          └ <lark.lexer.TraditionalLexer object at 0x7f5b0facced0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 398, in next_token
+    raise UnexpectedCharacters(lex_state.text, line_ctr.char_pos, line_ctr.line, line_ctr.column,
+          │                    │         │     │        │         │        │     │        └ <member 'column' of 'LineCounter' objects>
+          │                    │         │     │        │         │        │     └ <lark.lexer.LineCounter object at 0x7f5b0e96eb10>
+          │                    │         │     │        │         │        └ <member 'line' of 'LineCounter' objects>
+          │                    │         │     │        │         └ <lark.lexer.LineCounter object at 0x7f5b0e96eb10>
+          │                    │         │     │        └ <member 'char_pos' of 'LineCounter' objects>
+          │                    │         │     └ <lark.lexer.LineCounter object at 0x7f5b0e96eb10>
+          │                    │         └ <member 'text' of 'LexerState' objects>
+          │                    └ <lark.lexer.LexerState object at 0x7f5b0e97d240>
+          └ <class 'lark.exceptions.UnexpectedCharacters'>
+
+lark.exceptions.UnexpectedCharacters: No terminal matches '>' in the current parser context, at line 1 col 1
+
+>, 0, 1
+^
+Expected one of: 
+	* WEAK_NEXT
+	* pl__TRUE
+	* ALWAYS
+	* NOT
+	* LAST
+	* NEXT
+	* LSEPARATOR
+	* EVENTUALLY
+	* SYMBOL_NAME
+	* pl__FALSE
+
+2023-10-25 14:11:32.539 | ERROR    | app2:translate:316 - No terminal matches '>' in the current parser context, at line 1 col 1
+
+>, 0, 1
+^
+Expected one of: 
+	* WEAK_NEXT
+	* pl__TRUE
+	* ALWAYS
+	* NOT
+	* LAST
+	* NEXT
+	* LSEPARATOR
+	* EVENTUALLY
+	* SYMBOL_NAME
+	* pl__FALSE
+
+Traceback (most recent call last):
+
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 486, in lex
+    token = self.root_lexer.next_token(lexer_state, parser_state)
+            │    │          │          │            └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b0e985480>
+            │    │          │          └ <lark.lexer.LexerState object at 0x7f5b0e985740>
+            │    │          └ <function TraditionalLexer.next_token at 0x7f5b0fbb3100>
+            │    └ <lark.lexer.TraditionalLexer object at 0x7f5b1005d0d0>
+            └ <lark.lexer.ContextualLexer object at 0x7f5b0facf7d0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 398, in next_token
+    raise UnexpectedCharacters(lex_state.text, line_ctr.char_pos, line_ctr.line, line_ctr.column,
+          │                    │         │     │        │         │        │     │        └ <member 'column' of 'LineCounter' objects>
+          │                    │         │     │        │         │        │     └ <lark.lexer.LineCounter object at 0x7f5b0e96fa10>
+          │                    │         │     │        │         │        └ <member 'line' of 'LineCounter' objects>
+          │                    │         │     │        │         └ <lark.lexer.LineCounter object at 0x7f5b0e96fa10>
+          │                    │         │     │        └ <member 'char_pos' of 'LineCounter' objects>
+          │                    │         │     └ <lark.lexer.LineCounter object at 0x7f5b0e96fa10>
+          │                    │         └ <member 'text' of 'LexerState' objects>
+          │                    └ <lark.lexer.LexerState object at 0x7f5b0e985740>
+          └ <class 'lark.exceptions.UnexpectedCharacters'>
+
+lark.exceptions.UnexpectedCharacters: No terminal matches '>' in the current parser context, at line 1 col 1
+
+>, 0, 1
+^
+Expected one of: 
+	* pl__TRUE
+	* NOT
+	* LSEPARATOR
+	* LAST
+	* EVENTUALLY
+	* SYMBOL_NAME
+	* AND
+	* EQUIVALENCE
+	* OR
+	* WEAK_NEXT
+	* RSEPARATOR
+	* ALWAYS
+	* NEXT
+	* pl__FALSE
+	* UNTIL
+	* IMPLY
+	* RELEASE
+
+
+
+During handling of the above exception, another exception occurred:
+
+
+Traceback (most recent call last):
+
+  File "/home/abhibp1993/miniconda3/lib/python3.11/threading.py", line 995, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7f5b744d8860>
+    └ <Thread(Thread-11 (process_request_thread), started daemon 140029080512256)>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/threading.py", line 1038, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x7f5b744d8540>
+    └ <Thread(Thread-11 (process_request_thread), started daemon 140029080512256)>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/threading.py", line 975, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(Thread-11 (process_request_thread), started daemon 140029080512256)>
+    │    │        │    └ (<socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 5080), raddr=('127.0.0.1', 35182)>, ('127.0.0.1', 35182))
+    │    │        └ <Thread(Thread-11 (process_request_thread), started daemon 140029080512256)>
+    │    └ <bound method ThreadingMixIn.process_request_thread of <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>>
+    └ <Thread(Thread-11 (process_request_thread), started daemon 140029080512256)>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+    │    │              │        └ ('127.0.0.1', 35182)
+    │    │              └ <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 5080), raddr=('127.0.0.1', 35182)>
+    │    └ <function BaseServer.finish_request at 0x7f5b12401120>
+    └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    │    │                   │        │               └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+    │    │                   │        └ ('127.0.0.1', 35182)
+    │    │                   └ <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 5080), raddr=('127.0.0.1', 35182)>
+    │    └ <class 'werkzeug.serving.WSGIRequestHandler'>
+    └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+    │    └ <function WSGIRequestHandler.handle at 0x7f5b121dec00>
+    └ <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0e97e1d0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/werkzeug/serving.py", line 361, in handle
+    super().handle()
+  File "/home/abhibp1993/miniconda3/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+    │    └ <function BaseHTTPRequestHandler.handle_one_request at 0x7f5b121b7100>
+    └ <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0e97e1d0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+    └ <bound method WSGIRequestHandler.run_wsgi of <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0e97e1d0>>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/werkzeug/serving.py", line 333, in run_wsgi
+    execute(self.server.app)
+    │       │    │      └ <Flask 'app2'>
+    │       │    └ <werkzeug.serving.ThreadedWSGIServer object at 0x7f5b12b45fd0>
+    │       └ <werkzeug.serving.WSGIRequestHandler object at 0x7f5b0e97e1d0>
+    └ <function WSGIRequestHandler.run_wsgi.<locals>.execute at 0x7f5b0e970a40>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/werkzeug/serving.py", line 320, in execute
+    application_iter = app(environ, start_response)
+                       │   │        └ <function WSGIRequestHandler.run_wsgi.<locals>.start_response at 0x7f5b0e9709a0>
+                       │   └ {'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=5>, 'wsgi.errors': <_io.TextIOWrap...
+                       └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 2552, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <function WSGIRequestHandler.run_wsgi.<locals>.start_response at 0x7f5b0e9709a0>
+           │    │        └ {'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=5>, 'wsgi.errors': <_io.TextIOWrap...
+           │    └ <function Flask.wsgi_app at 0x7f5b11cbee80>
+           └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f5b11cbe2a0>
+               └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f5b11cbe200>
+         └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f5b0fb1d440>, '_dash_assets.static': <bound method Scaffold.send_...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f5b11cbe520>
+           └ <Flask 'app2'>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of '_contextvars.Context' objects>
+    └ <_contextvars.Context object at 0x7f5b0e984f00>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [3, 'prefltlf 4\nF(a)\nF(b)\n>, 0, 1', None, ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot', ['pdfa2p...
+                   └ <function translate at 0x7f5b0fa19a80>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 250, in translate
+    spec = translate2.PrefLTLf(text_spec, alphabet=alphabet)
+           │          │        │                   └ None
+           │          │        └ 'prefltlf 4\nF(a)\nF(b)\n>, 0, 1'
+           │          └ <class 'translate2.PrefLTLf'>
+           └ <module 'translate2' from '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantit...
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/translate2.py", line 106, in __init__
+    self.parse()
+    │    └ <function PrefLTLf.parse at 0x7f5b0fb16de0>
+    └ <PrefLTLf Formula at 140029063614736>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/translate2.py", line 148, in parse
+    self.atoms, self.phi = self._parse_ltlf(raw_spec[1:num_ltlf + 1])
+    │    │      │    │     │    │           │          └ 4
+    │    │      │    │     │    │           └ ['prefltlf 4', 'F(a)', 'F(b)', '>, 0, 1']
+    │    │      │    │     │    └ <function PrefLTLf._parse_ltlf at 0x7f5b0fb16980>
+    │    │      │    │     └ <PrefLTLf Formula at 140029063614736>
+    │    │      │    └ []
+    │    │      └ <PrefLTLf Formula at 140029063614736>
+    │    └ set()
+    └ <PrefLTLf Formula at 140029063614736>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/translate2.py", line 191, in _parse_ltlf
+    ltlf = PARSER(formula.strip())
+           │      │       └ <method 'strip' of 'str' objects>
+           │      └ '>, 0, 1'
+           └ <ltlf2dfa.parser.ltlf.LTLfParser object at 0x7f5b11390f10>
+
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/ltlf2dfa/parser/ltlf.py", line 223, in __call__
+    tree = self._parser.parse(text)
+           │    │       │     └ '>, 0, 1'
+           │    │       └ <function Lark.parse at 0x7f5b0fc65f80>
+           │    └ Lark(open('/home/abhibp1993/miniconda3/lib/python3.11/site-packages/ltlf2dfa/parser/ltlf.lark'), parser='lalr', lexer='contex...
+           └ <ltlf2dfa.parser.ltlf.LTLfParser object at 0x7f5b11390f10>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lark.py", line 581, in parse
+    return self.parser.parse(text, start=start, on_error=on_error)
+           │    │      │     │           │               └ None
+           │    │      │     │           └ None
+           │    │      │     └ '>, 0, 1'
+           │    │      └ <function ParsingFrontend.parse at 0x7f5b0fc61080>
+           │    └ <lark.parser_frontends.ParsingFrontend object at 0x7f5b10688c50>
+           └ Lark(open('/home/abhibp1993/miniconda3/lib/python3.11/site-packages/ltlf2dfa/parser/ltlf.lark'), parser='lalr', lexer='contex...
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parser_frontends.py", line 106, in parse
+    return self.parser.parse(stream, chosen_start, **kw)
+           │    │      │     │       │               └ {}
+           │    │      │     │       └ 'start'
+           │    │      │     └ <lark.lexer.LexerThread object at 0x7f5b0e985610>
+           │    │      └ <function LALR_Parser.parse at 0x7f5b0fc60360>
+           │    └ <lark.parsers.lalr_parser.LALR_Parser object at 0x7f5b104ccb10>
+           └ <lark.parser_frontends.ParsingFrontend object at 0x7f5b10688c50>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 41, in parse
+    return self.parser.parse(lexer, start)
+           │    │      │     │      └ 'start'
+           │    │      │     └ <lark.lexer.LexerThread object at 0x7f5b0e985610>
+           │    │      └ <function _Parser.parse at 0x7f5b0fc60900>
+           │    └ <lark.parsers.lalr_parser._Parser object at 0x7f5b0fb063d0>
+           └ <lark.parsers.lalr_parser.LALR_Parser object at 0x7f5b104ccb10>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 171, in parse
+    return self.parse_from_state(parser_state)
+           │    │                └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b0e985480>
+           │    └ <function _Parser.parse_from_state at 0x7f5b0fc609a0>
+           └ <lark.parsers.lalr_parser._Parser object at 0x7f5b0fb063d0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 188, in parse_from_state
+    raise e
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/parsers/lalr_parser.py", line 178, in parse_from_state
+    for token in state.lexer.lex(state):
+        │        │     │         └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b0e985480>
+        │        │     └ <member 'lexer' of 'ParserState' objects>
+        │        └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b0e985480>
+        └ None
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 489, in lex
+    raise e  # Raise the original UnexpectedCharacters. The root lexer raises it with the wrong expected set.
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 478, in lex
+    yield lexer.next_token(lexer_state, parser_state)
+          │     │          │            └ <lark.parsers.lalr_parser.ParserState object at 0x7f5b0e985480>
+          │     │          └ <lark.lexer.LexerState object at 0x7f5b0e985740>
+          │     └ <function TraditionalLexer.next_token at 0x7f5b0fbb3100>
+          └ <lark.lexer.TraditionalLexer object at 0x7f5b0facced0>
+  File "/home/abhibp1993/miniconda3/lib/python3.11/site-packages/lark/lexer.py", line 398, in next_token
+    raise UnexpectedCharacters(lex_state.text, line_ctr.char_pos, line_ctr.line, line_ctr.column,
+          │                    │         │     │        │         │        │     │        └ <member 'column' of 'LineCounter' objects>
+          │                    │         │     │        │         │        │     └ <lark.lexer.LineCounter object at 0x7f5b0e96fa10>
+          │                    │         │     │        │         │        └ <member 'line' of 'LineCounter' objects>
+          │                    │         │     │        │         └ <lark.lexer.LineCounter object at 0x7f5b0e96fa10>
+          │                    │         │     │        └ <member 'char_pos' of 'LineCounter' objects>
+          │                    │         │     └ <lark.lexer.LineCounter object at 0x7f5b0e96fa10>
+          │                    │         └ <member 'text' of 'LexerState' objects>
+          │                    └ <lark.lexer.LexerState object at 0x7f5b0e985740>
+          └ <class 'lark.exceptions.UnexpectedCharacters'>
+
+lark.exceptions.UnexpectedCharacters: No terminal matches '>' in the current parser context, at line 1 col 1
+
+>, 0, 1
+^
+Expected one of: 
+	* WEAK_NEXT
+	* pl__TRUE
+	* ALWAYS
+	* NOT
+	* LAST
+	* NEXT
+	* LSEPARATOR
+	* EVENTUALLY
+	* SYMBOL_NAME
+	* pl__FALSE
+
+2023-10-25 14:27:58.667 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 14:29:01.559 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 14:29:18.591 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/home/abhibp1993/.pycharm_helpers/pydev', '/home/abhibp1993/.pycharm_helpers/third_party/thriftpy', '/home/abhibp1993/.pycharm_helpers/pydev', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 15:21:38.733 | INFO     | __main__:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/home/abhibp1993/.pycharm_helpers/pycharm_display', '/home/abhibp1993/miniconda3/lib/python311.zip', '/home/abhibp1993/miniconda3/lib/python3.11', '/home/abhibp1993/miniconda3/lib/python3.11/lib-dynload', '/home/abhibp1993/miniconda3/lib/python3.11/site-packages', '/home/abhibp1993/.pycharm_helpers/pycharm_matplotlib_backend', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-10-25 15:21:42.311 | INFO     | app2:translate:235 - init button click
+2023-11-15 13:00:45.983 | INFO     | wsgi:<module>:11 - ['/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp', '/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin', '/usr/lib/python38.zip', '/usr/lib/python3.8', '/usr/lib/python3.8/lib-dynload', '/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa', '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf']
+2023-11-15 13:00:47.336 | INFO     | app2:translate:235 - init button click
+2023-11-15 13:01:29.386 | ERROR    | app2:translate:316 - malformed node or string: <_ast.Call object at 0x7f9a7eea7b20>
+Traceback (most recent call last):
+
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+    │   │    └ <function run at 0x7f9a804aa790>
+    │   └ <built-in function exit>
+    └ <module 'sys' (built-in)>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+    └ <class 'gunicorn.app.wsgiapp.WSGIApplication'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+    │       └ <gunicorn.app.wsgiapp.WSGIApplication object at 0x7f9a805d8370>
+    └ <class 'gunicorn.arbiter.Arbiter'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+    │    └ <function Arbiter.manage_workers at 0x7f9a800e5ee0>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+    │    └ <function Arbiter.spawn_workers at 0x7f9a7fd06040>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+    │    └ <function Arbiter.spawn_worker at 0x7f9a800e5f70>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+    │      └ <function Worker.init_process at 0x7f9a7fb0c3a0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+    │    └ <function SyncWorker.run at 0x7f9a7fb0caf0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+    │    │           └ 15.0
+    │    └ <function SyncWorker.run_for_one at 0x7f9a7fb0c9d0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.accept at 0x7f9a7fb62160>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+    │    │      │         │       └ ('127.0.0.1', 52236)
+    │    │      │         └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle at 0x7f9a7fb0cb80>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+    │    │              │         │    │       └ ('127.0.0.1', 52236)
+    │    │              │         │    └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │              │         └ <gunicorn.http.message.Request object at 0x7f9a7d69f5b0>
+    │    │              └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle_request at 0x7f9a7fb0cc10>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+               │    │    │        │    └ <function Response.start_response at 0x7f9a7fb59a60>
+               │    │    │        └ <gunicorn.http.wsgi.Response object at 0x7f9a7d69f670>
+               │    │    └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7d69f8b0>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+               │    └ <Flask 'app2'>
+               └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <bound method Response.start_response of <gunicorn.http.wsgi.Response object at 0x7f9a7d69f670>>
+           │    │        └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7d69f8b0>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+           │    └ <function Flask.wsgi_app at 0x7f9a7f46d550>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f9a7f46ad30>
+               └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f9a7f46aca0>
+         └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f9a7d6cc700>, '_dash_assets.static': <bound method Blueprint.send...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f9a7f46aee0>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of 'Context' objects>
+    └ <Context object at 0x7f9a7d606600>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [2, 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1', 'set()\n{a}\n', ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot'...
+                   └ <function translate at 0x7f9a7d6f4dc0>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in translate
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │                                │             └ <method 'split' of 'str' objects>
+                │   │                                └ 'set()\n{a}\n'
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in <listcomp>
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │            │ │            └ 'set()'
+                │   │            │ └ <method 'strip' of 'str' objects>
+                │   │            └ 'set()'
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/usr/lib/python3.8/ast.py", line 99, in literal_eval
+    return _convert(node_or_string)
+           │        └ <_ast.Call object at 0x7f9a7eea7b20>
+           └ <function literal_eval.<locals>._convert at 0x7f9a7ef1bb80>
+  File "/usr/lib/python3.8/ast.py", line 98, in _convert
+    return _convert_signed_num(node)
+           │                   └ <_ast.Call object at 0x7f9a7eea7b20>
+           └ <function literal_eval.<locals>._convert_signed_num at 0x7f9a7ef1baf0>
+  File "/usr/lib/python3.8/ast.py", line 75, in _convert_signed_num
+    return _convert_num(node)
+           │            └ <_ast.Call object at 0x7f9a7eea7b20>
+           └ <function literal_eval.<locals>._convert_num at 0x7f9a7ef1ba60>
+  File "/usr/lib/python3.8/ast.py", line 66, in _convert_num
+    _raise_malformed_node(node)
+    │                     └ <_ast.Call object at 0x7f9a7eea7b20>
+    └ <function literal_eval.<locals>._raise_malformed_node at 0x7f9a7ef1b9d0>
+  File "/usr/lib/python3.8/ast.py", line 63, in _raise_malformed_node
+    raise ValueError(f'malformed node or string: {node!r}')
+
+ValueError: malformed node or string: <_ast.Call object at 0x7f9a7eea7b20>
+2023-11-15 13:01:38.807 | ERROR    | app2:translate:316 - malformed node or string: <_ast.Call object at 0x7f9a7fb56940>
+Traceback (most recent call last):
+
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+    │   │    └ <function run at 0x7f9a804aa790>
+    │   └ <built-in function exit>
+    └ <module 'sys' (built-in)>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+    └ <class 'gunicorn.app.wsgiapp.WSGIApplication'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+    │       └ <gunicorn.app.wsgiapp.WSGIApplication object at 0x7f9a805d8370>
+    └ <class 'gunicorn.arbiter.Arbiter'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+    │    └ <function Arbiter.manage_workers at 0x7f9a800e5ee0>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+    │    └ <function Arbiter.spawn_workers at 0x7f9a7fd06040>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+    │    └ <function Arbiter.spawn_worker at 0x7f9a800e5f70>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+    │      └ <function Worker.init_process at 0x7f9a7fb0c3a0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+    │    └ <function SyncWorker.run at 0x7f9a7fb0caf0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+    │    │           └ 15.0
+    │    └ <function SyncWorker.run_for_one at 0x7f9a7fb0c9d0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.accept at 0x7f9a7fb62160>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+    │    │      │         │       └ ('127.0.0.1', 52238)
+    │    │      │         └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle at 0x7f9a7fb0cb80>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+    │    │              │         │    │       └ ('127.0.0.1', 52238)
+    │    │              │         │    └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │              │         └ <gunicorn.http.message.Request object at 0x7f9a7eea7e50>
+    │    │              └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle_request at 0x7f9a7fb0cc10>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+               │    │    │        │    └ <function Response.start_response at 0x7f9a7fb59a60>
+               │    │    │        └ <gunicorn.http.wsgi.Response object at 0x7f9a7eea7f10>
+               │    │    └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7eea7ee0>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+               │    └ <Flask 'app2'>
+               └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <bound method Response.start_response of <gunicorn.http.wsgi.Response object at 0x7f9a7eea7f10>>
+           │    │        └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7eea7ee0>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+           │    └ <function Flask.wsgi_app at 0x7f9a7f46d550>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f9a7f46ad30>
+               └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f9a7f46aca0>
+         └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f9a7d6cc700>, '_dash_assets.static': <bound method Blueprint.send...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f9a7f46aee0>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of 'Context' objects>
+    └ <Context object at 0x7f9a7d606600>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [3, 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1', 'set()\n{"a"}\n', ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-do...
+                   └ <function translate at 0x7f9a7d6f4dc0>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in translate
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │                                │             └ <method 'split' of 'str' objects>
+                │   │                                └ 'set()\n{"a"}\n'
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in <listcomp>
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │            │ │            └ 'set()'
+                │   │            │ └ <method 'strip' of 'str' objects>
+                │   │            └ 'set()'
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/usr/lib/python3.8/ast.py", line 99, in literal_eval
+    return _convert(node_or_string)
+           │        └ <_ast.Call object at 0x7f9a7fb56940>
+           └ <function literal_eval.<locals>._convert at 0x7f9a7ef1baf0>
+  File "/usr/lib/python3.8/ast.py", line 98, in _convert
+    return _convert_signed_num(node)
+           │                   └ <_ast.Call object at 0x7f9a7fb56940>
+           └ <function literal_eval.<locals>._convert_signed_num at 0x7f9a7ef1b9d0>
+  File "/usr/lib/python3.8/ast.py", line 75, in _convert_signed_num
+    return _convert_num(node)
+           │            └ <_ast.Call object at 0x7f9a7fb56940>
+           └ <function literal_eval.<locals>._convert_num at 0x7f9a7ef1b8b0>
+  File "/usr/lib/python3.8/ast.py", line 66, in _convert_num
+    _raise_malformed_node(node)
+    │                     └ <_ast.Call object at 0x7f9a7fb56940>
+    └ <function literal_eval.<locals>._raise_malformed_node at 0x7f9a7ef1bc10>
+  File "/usr/lib/python3.8/ast.py", line 63, in _raise_malformed_node
+    raise ValueError(f'malformed node or string: {node!r}')
+
+ValueError: malformed node or string: <_ast.Call object at 0x7f9a7fb56940>
+2023-11-15 13:01:59.853 | ERROR    | app2:translate:316 - malformed node or string: <_ast.Call object at 0x7f9a7eea74c0>
+Traceback (most recent call last):
+
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+    │   │    └ <function run at 0x7f9a804aa790>
+    │   └ <built-in function exit>
+    └ <module 'sys' (built-in)>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+    └ <class 'gunicorn.app.wsgiapp.WSGIApplication'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+    │       └ <gunicorn.app.wsgiapp.WSGIApplication object at 0x7f9a805d8370>
+    └ <class 'gunicorn.arbiter.Arbiter'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+    │    └ <function Arbiter.manage_workers at 0x7f9a800e5ee0>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+    │    └ <function Arbiter.spawn_workers at 0x7f9a7fd06040>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+    │    └ <function Arbiter.spawn_worker at 0x7f9a800e5f70>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+    │      └ <function Worker.init_process at 0x7f9a7fb0c3a0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+    │    └ <function SyncWorker.run at 0x7f9a7fb0caf0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+    │    │           └ 15.0
+    │    └ <function SyncWorker.run_for_one at 0x7f9a7fb0c9d0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.accept at 0x7f9a7fb62160>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+    │    │      │         │       └ ('127.0.0.1', 52240)
+    │    │      │         └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle at 0x7f9a7fb0cb80>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+    │    │              │         │    │       └ ('127.0.0.1', 52240)
+    │    │              │         │    └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │              │         └ <gunicorn.http.message.Request object at 0x7f9a7eea7b20>
+    │    │              └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle_request at 0x7f9a7fb0cc10>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+               │    │    │        │    └ <function Response.start_response at 0x7f9a7fb59a60>
+               │    │    │        └ <gunicorn.http.wsgi.Response object at 0x7f9a7eea7310>
+               │    │    └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7eea7940>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+               │    └ <Flask 'app2'>
+               └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <bound method Response.start_response of <gunicorn.http.wsgi.Response object at 0x7f9a7eea7310>>
+           │    │        └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7eea7940>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+           │    └ <function Flask.wsgi_app at 0x7f9a7f46d550>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f9a7f46ad30>
+               └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f9a7f46aca0>
+         └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f9a7d6cc700>, '_dash_assets.static': <bound method Blueprint.send...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f9a7f46aee0>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of 'Context' objects>
+    └ <Context object at 0x7f9a7c334c80>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [4, 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1', "set()\n{'a'}\n", ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-do...
+                   └ <function translate at 0x7f9a7d6f4dc0>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in translate
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │                                │             └ <method 'split' of 'str' objects>
+                │   │                                └ "set()\n{'a'}\n"
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in <listcomp>
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │            │ │            └ 'set()'
+                │   │            │ └ <method 'strip' of 'str' objects>
+                │   │            └ 'set()'
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/usr/lib/python3.8/ast.py", line 99, in literal_eval
+    return _convert(node_or_string)
+           │        └ <_ast.Call object at 0x7f9a7eea74c0>
+           └ <function literal_eval.<locals>._convert at 0x7f9a7ef1b670>
+  File "/usr/lib/python3.8/ast.py", line 98, in _convert
+    return _convert_signed_num(node)
+           │                   └ <_ast.Call object at 0x7f9a7eea74c0>
+           └ <function literal_eval.<locals>._convert_signed_num at 0x7f9a7ef1b430>
+  File "/usr/lib/python3.8/ast.py", line 75, in _convert_signed_num
+    return _convert_num(node)
+           │            └ <_ast.Call object at 0x7f9a7eea74c0>
+           └ <function literal_eval.<locals>._convert_num at 0x7f9a7ef1b4c0>
+  File "/usr/lib/python3.8/ast.py", line 66, in _convert_num
+    _raise_malformed_node(node)
+    │                     └ <_ast.Call object at 0x7f9a7eea74c0>
+    └ <function literal_eval.<locals>._raise_malformed_node at 0x7f9a7ef1bb80>
+  File "/usr/lib/python3.8/ast.py", line 63, in _raise_malformed_node
+    raise ValueError(f'malformed node or string: {node!r}')
+
+ValueError: malformed node or string: <_ast.Call object at 0x7f9a7eea74c0>
+2023-11-15 13:02:26.194 | ERROR    | app2:translate:316 - malformed node or string: <_ast.Call object at 0x7f9a7d6ed910>
+Traceback (most recent call last):
+
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+    │   │    └ <function run at 0x7f9a804aa790>
+    │   └ <built-in function exit>
+    └ <module 'sys' (built-in)>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+    └ <class 'gunicorn.app.wsgiapp.WSGIApplication'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+    │       └ <gunicorn.app.wsgiapp.WSGIApplication object at 0x7f9a805d8370>
+    └ <class 'gunicorn.arbiter.Arbiter'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+    │    └ <function Arbiter.manage_workers at 0x7f9a800e5ee0>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+    │    └ <function Arbiter.spawn_workers at 0x7f9a7fd06040>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+    │    └ <function Arbiter.spawn_worker at 0x7f9a800e5f70>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+    │      └ <function Worker.init_process at 0x7f9a7fb0c3a0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+    │    └ <function SyncWorker.run at 0x7f9a7fb0caf0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+    │    │           └ 15.0
+    │    └ <function SyncWorker.run_for_one at 0x7f9a7fb0c9d0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.accept at 0x7f9a7fb62160>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+    │    │      │         │       └ ('127.0.0.1', 52242)
+    │    │      │         └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle at 0x7f9a7fb0cb80>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+    │    │              │         │    │       └ ('127.0.0.1', 52242)
+    │    │              │         │    └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │              │         └ <gunicorn.http.message.Request object at 0x7f9a7eef8640>
+    │    │              └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle_request at 0x7f9a7fb0cc10>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+               │    │    │        │    └ <function Response.start_response at 0x7f9a7fb59a60>
+               │    │    │        └ <gunicorn.http.wsgi.Response object at 0x7f9a7eef80a0>
+               │    │    └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7eef8a90>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+               │    └ <Flask 'app2'>
+               └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <bound method Response.start_response of <gunicorn.http.wsgi.Response object at 0x7f9a7eef80a0>>
+           │    │        └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7eef8a90>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+           │    └ <function Flask.wsgi_app at 0x7f9a7f46d550>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f9a7f46ad30>
+               └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f9a7f46aca0>
+         └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f9a7d6cc700>, '_dash_assets.static': <bound method Blueprint.send...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f9a7f46aee0>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of 'Context' objects>
+    └ <Context object at 0x7f9a7c33e280>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [5, 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1', 'set()\n\n', ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot', [...
+                   └ <function translate at 0x7f9a7d6f4dc0>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in translate
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │                                │             └ <method 'split' of 'str' objects>
+                │   │                                └ 'set()\n\n'
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in <listcomp>
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │            │ │            └ 'set()'
+                │   │            │ └ <method 'strip' of 'str' objects>
+                │   │            └ 'set()'
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/usr/lib/python3.8/ast.py", line 99, in literal_eval
+    return _convert(node_or_string)
+           │        └ <_ast.Call object at 0x7f9a7d6ed910>
+           └ <function literal_eval.<locals>._convert at 0x7f9a7ef1b1f0>
+  File "/usr/lib/python3.8/ast.py", line 98, in _convert
+    return _convert_signed_num(node)
+           │                   └ <_ast.Call object at 0x7f9a7d6ed910>
+           └ <function literal_eval.<locals>._convert_signed_num at 0x7f9a7ef1b280>
+  File "/usr/lib/python3.8/ast.py", line 75, in _convert_signed_num
+    return _convert_num(node)
+           │            └ <_ast.Call object at 0x7f9a7d6ed910>
+           └ <function literal_eval.<locals>._convert_num at 0x7f9a7ef1b160>
+  File "/usr/lib/python3.8/ast.py", line 66, in _convert_num
+    _raise_malformed_node(node)
+    │                     └ <_ast.Call object at 0x7f9a7d6ed910>
+    └ <function literal_eval.<locals>._raise_malformed_node at 0x7f9a7ef1b700>
+  File "/usr/lib/python3.8/ast.py", line 63, in _raise_malformed_node
+    raise ValueError(f'malformed node or string: {node!r}')
+
+ValueError: malformed node or string: <_ast.Call object at 0x7f9a7d6ed910>
+2023-11-15 13:02:33.242 | ERROR    | app2:translate:316 - unexpected EOF while parsing (<unknown>, line 0)
+Traceback (most recent call last):
+
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+    │   │    └ <function run at 0x7f9a804aa790>
+    │   └ <built-in function exit>
+    └ <module 'sys' (built-in)>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+    └ <class 'gunicorn.app.wsgiapp.WSGIApplication'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+    │       └ <gunicorn.app.wsgiapp.WSGIApplication object at 0x7f9a805d8370>
+    └ <class 'gunicorn.arbiter.Arbiter'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+    │    └ <function Arbiter.manage_workers at 0x7f9a800e5ee0>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+    │    └ <function Arbiter.spawn_workers at 0x7f9a7fd06040>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+    │    └ <function Arbiter.spawn_worker at 0x7f9a800e5f70>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+    │      └ <function Worker.init_process at 0x7f9a7fb0c3a0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+    │    └ <function SyncWorker.run at 0x7f9a7fb0caf0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+    │    │           └ 15.0
+    │    └ <function SyncWorker.run_for_one at 0x7f9a7fb0c9d0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.accept at 0x7f9a7fb62160>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+    │    │      │         │       └ ('127.0.0.1', 52244)
+    │    │      │         └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle at 0x7f9a7fb0cb80>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+    │    │              │         │    │       └ ('127.0.0.1', 52244)
+    │    │              │         │    └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │              │         └ <gunicorn.http.message.Request object at 0x7f9a7d6ed820>
+    │    │              └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle_request at 0x7f9a7fb0cc10>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+               │    │    │        │    └ <function Response.start_response at 0x7f9a7fb59a60>
+               │    │    │        └ <gunicorn.http.wsgi.Response object at 0x7f9a7d6eda60>
+               │    │    └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7d6edcd0>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+               │    └ <Flask 'app2'>
+               └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <bound method Response.start_response of <gunicorn.http.wsgi.Response object at 0x7f9a7d6eda60>>
+           │    │        └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7d6edcd0>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+           │    └ <function Flask.wsgi_app at 0x7f9a7f46d550>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f9a7f46ad30>
+               └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f9a7f46aca0>
+         └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f9a7d6cc700>, '_dash_assets.static': <bound method Blueprint.send...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f9a7f46aee0>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of 'Context' objects>
+    └ <Context object at 0x7f9a7c345800>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [6, 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1', '\n\n', ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot', ['pdfa...
+                   └ <function translate at 0x7f9a7d6f4dc0>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in translate
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │                                │             └ <method 'split' of 'str' objects>
+                │   │                                └ '\n\n'
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in <listcomp>
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │            │ │            └ ''
+                │   │            │ └ <method 'strip' of 'str' objects>
+                │   │            └ ''
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/usr/lib/python3.8/ast.py", line 59, in literal_eval
+    node_or_string = parse(node_or_string, mode='eval')
+                     │     └ ''
+                     └ <function parse at 0x7f9a804623a0>
+  File "/usr/lib/python3.8/ast.py", line 47, in parse
+    return compile(source, filename, mode, flags,
+                   │       │         │     └ 1024
+                   │       │         └ 'eval'
+                   │       └ '<unknown>'
+                   └ ''
+  File "<unknown>", line 0
+    
+    ^
+
+SyntaxError: unexpected EOF while parsing
+2023-11-15 13:02:37.379 | ERROR    | app2:translate:316 - unexpected EOF while parsing (<unknown>, line 0)
+Traceback (most recent call last):
+
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+    │   │    └ <function run at 0x7f9a804aa790>
+    │   └ <built-in function exit>
+    └ <module 'sys' (built-in)>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+    └ <class 'gunicorn.app.wsgiapp.WSGIApplication'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+    │       └ <gunicorn.app.wsgiapp.WSGIApplication object at 0x7f9a805d8370>
+    └ <class 'gunicorn.arbiter.Arbiter'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+    │    └ <function Arbiter.manage_workers at 0x7f9a800e5ee0>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+    │    └ <function Arbiter.spawn_workers at 0x7f9a7fd06040>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+    │    └ <function Arbiter.spawn_worker at 0x7f9a800e5f70>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+    │      └ <function Worker.init_process at 0x7f9a7fb0c3a0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+    │    └ <function SyncWorker.run at 0x7f9a7fb0caf0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+    │    │           └ 15.0
+    │    └ <function SyncWorker.run_for_one at 0x7f9a7fb0c9d0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.accept at 0x7f9a7fb62160>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+    │    │      │         │       └ ('127.0.0.1', 52246)
+    │    │      │         └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle at 0x7f9a7fb0cb80>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+    │    │              │         │    │       └ ('127.0.0.1', 52246)
+    │    │              │         │    └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │              │         └ <gunicorn.http.message.Request object at 0x7f9a7c3329d0>
+    │    │              └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle_request at 0x7f9a7fb0cc10>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+               │    │    │        │    └ <function Response.start_response at 0x7f9a7fb59a60>
+               │    │    │        └ <gunicorn.http.wsgi.Response object at 0x7f9a7c332a00>
+               │    │    └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7c332b20>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+               │    └ <Flask 'app2'>
+               └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <bound method Response.start_response of <gunicorn.http.wsgi.Response object at 0x7f9a7c332a00>>
+           │    │        └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7c332b20>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+           │    └ <function Flask.wsgi_app at 0x7f9a7f46d550>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f9a7f46ad30>
+               └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f9a7f46aca0>
+         └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f9a7d6cc700>, '_dash_assets.static': <bound method Blueprint.send...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f9a7f46aee0>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of 'Context' objects>
+    └ <Context object at 0x7f9a7c345800>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [7, 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1\n', '\n\n', ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot', ['pd...
+                   └ <function translate at 0x7f9a7d6f4dc0>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in translate
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │                                │             └ <method 'split' of 'str' objects>
+                │   │                                └ '\n\n'
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in <listcomp>
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │            │ │            └ ''
+                │   │            │ └ <method 'strip' of 'str' objects>
+                │   │            └ ''
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/usr/lib/python3.8/ast.py", line 59, in literal_eval
+    node_or_string = parse(node_or_string, mode='eval')
+                     │     └ ''
+                     └ <function parse at 0x7f9a804623a0>
+  File "/usr/lib/python3.8/ast.py", line 47, in parse
+    return compile(source, filename, mode, flags,
+                   │       │         │     └ 1024
+                   │       │         └ 'eval'
+                   │       └ '<unknown>'
+                   └ ''
+  File "<unknown>", line 0
+    
+    ^
+
+SyntaxError: unexpected EOF while parsing
+2023-11-15 13:02:41.931 | ERROR    | app2:translate:316 - unexpected EOF while parsing (<unknown>, line 0)
+Traceback (most recent call last):
+
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+    │   │    └ <function run at 0x7f9a804aa790>
+    │   └ <built-in function exit>
+    └ <module 'sys' (built-in)>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+    └ <class 'gunicorn.app.wsgiapp.WSGIApplication'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+    │       └ <gunicorn.app.wsgiapp.WSGIApplication object at 0x7f9a805d8370>
+    └ <class 'gunicorn.arbiter.Arbiter'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+    │    └ <function Arbiter.manage_workers at 0x7f9a800e5ee0>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+    │    └ <function Arbiter.spawn_workers at 0x7f9a7fd06040>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+    │    └ <function Arbiter.spawn_worker at 0x7f9a800e5f70>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+    │      └ <function Worker.init_process at 0x7f9a7fb0c3a0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+    │    └ <function SyncWorker.run at 0x7f9a7fb0caf0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+    │    │           └ 15.0
+    │    └ <function SyncWorker.run_for_one at 0x7f9a7fb0c9d0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.accept at 0x7f9a7fb62160>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+    │    │      │         │       └ ('127.0.0.1', 52248)
+    │    │      │         └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle at 0x7f9a7fb0cb80>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+    │    │              │         │    │       └ ('127.0.0.1', 52248)
+    │    │              │         │    └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │              │         └ <gunicorn.http.message.Request object at 0x7f9a7d6ed760>
+    │    │              └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle_request at 0x7f9a7fb0cc10>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+               │    │    │        │    └ <function Response.start_response at 0x7f9a7fb59a60>
+               │    │    │        └ <gunicorn.http.wsgi.Response object at 0x7f9a7d6ed8e0>
+               │    │    └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7d6ed910>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+               │    └ <Flask 'app2'>
+               └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <bound method Response.start_response of <gunicorn.http.wsgi.Response object at 0x7f9a7d6ed8e0>>
+           │    │        └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7d6ed910>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+           │    └ <function Flask.wsgi_app at 0x7f9a7f46d550>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f9a7f46ad30>
+               └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f9a7f46aca0>
+         └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f9a7d6cc700>, '_dash_assets.static': <bound method Blueprint.send...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f9a7f46aee0>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of 'Context' objects>
+    └ <Context object at 0x7f9a7c33e280>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [8, 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1\n', '', ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot', ['pdfa2p...
+                   └ <function translate at 0x7f9a7d6f4dc0>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in translate
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │                                │             └ <method 'split' of 'str' objects>
+                │   │                                └ ''
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in <listcomp>
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │            │ │            └ ''
+                │   │            │ └ <method 'strip' of 'str' objects>
+                │   │            └ ''
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/usr/lib/python3.8/ast.py", line 59, in literal_eval
+    node_or_string = parse(node_or_string, mode='eval')
+                     │     └ ''
+                     └ <function parse at 0x7f9a804623a0>
+  File "/usr/lib/python3.8/ast.py", line 47, in parse
+    return compile(source, filename, mode, flags,
+                   │       │         │     └ 1024
+                   │       │         └ 'eval'
+                   │       └ '<unknown>'
+                   └ ''
+  File "<unknown>", line 0
+    
+    ^
+
+SyntaxError: unexpected EOF while parsing
+2023-11-15 13:02:45.226 | ERROR    | app2:translate:316 - unexpected EOF while parsing (<unknown>, line 0)
+Traceback (most recent call last):
+
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+    │   │    └ <function run at 0x7f9a804aa790>
+    │   └ <built-in function exit>
+    └ <module 'sys' (built-in)>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+    └ <class 'gunicorn.app.wsgiapp.WSGIApplication'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+    │       └ <gunicorn.app.wsgiapp.WSGIApplication object at 0x7f9a805d8370>
+    └ <class 'gunicorn.arbiter.Arbiter'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+    │    └ <function Arbiter.manage_workers at 0x7f9a800e5ee0>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+    │    └ <function Arbiter.spawn_workers at 0x7f9a7fd06040>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+    │    └ <function Arbiter.spawn_worker at 0x7f9a800e5f70>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+    │      └ <function Worker.init_process at 0x7f9a7fb0c3a0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+    │    └ <function SyncWorker.run at 0x7f9a7fb0caf0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+    │    │           └ 15.0
+    │    └ <function SyncWorker.run_for_one at 0x7f9a7fb0c9d0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.accept at 0x7f9a7fb62160>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+    │    │      │         │       └ ('127.0.0.1', 52250)
+    │    │      │         └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle at 0x7f9a7fb0cb80>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+    │    │              │         │    │       └ ('127.0.0.1', 52250)
+    │    │              │         │    └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │              │         └ <gunicorn.http.message.Request object at 0x7f9a7eef8e80>
+    │    │              └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle_request at 0x7f9a7fb0cc10>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+               │    │    │        │    └ <function Response.start_response at 0x7f9a7fb59a60>
+               │    │    │        └ <gunicorn.http.wsgi.Response object at 0x7f9a7d7163d0>
+               │    │    └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7d716880>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+               │    └ <Flask 'app2'>
+               └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <bound method Response.start_response of <gunicorn.http.wsgi.Response object at 0x7f9a7d7163d0>>
+           │    │        └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7d716880>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+           │    └ <function Flask.wsgi_app at 0x7f9a7f46d550>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f9a7f46ad30>
+               └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f9a7f46aca0>
+         └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f9a7d6cc700>, '_dash_assets.static': <bound method Blueprint.send...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f9a7f46aee0>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of 'Context' objects>
+    └ <Context object at 0x7f9a7c334c80>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [9, 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1\n', '', ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot', ['pdfa2p...
+                   └ <function translate at 0x7f9a7d6f4dc0>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in translate
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │                                │             └ <method 'split' of 'str' objects>
+                │   │                                └ ''
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in <listcomp>
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │            │ │            └ ''
+                │   │            │ └ <method 'strip' of 'str' objects>
+                │   │            └ ''
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/usr/lib/python3.8/ast.py", line 59, in literal_eval
+    node_or_string = parse(node_or_string, mode='eval')
+                     │     └ ''
+                     └ <function parse at 0x7f9a804623a0>
+  File "/usr/lib/python3.8/ast.py", line 47, in parse
+    return compile(source, filename, mode, flags,
+                   │       │         │     └ 1024
+                   │       │         └ 'eval'
+                   │       └ '<unknown>'
+                   └ ''
+  File "<unknown>", line 0
+    
+    ^
+
+SyntaxError: unexpected EOF while parsing
+2023-11-15 13:02:49.018 | ERROR    | app2:translate:316 - unexpected EOF while parsing (<unknown>, line 0)
+Traceback (most recent call last):
+
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+    │   │    └ <function run at 0x7f9a804aa790>
+    │   └ <built-in function exit>
+    └ <module 'sys' (built-in)>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+    └ <class 'gunicorn.app.wsgiapp.WSGIApplication'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+    │       └ <gunicorn.app.wsgiapp.WSGIApplication object at 0x7f9a805d8370>
+    └ <class 'gunicorn.arbiter.Arbiter'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+    │    └ <function Arbiter.manage_workers at 0x7f9a800e5ee0>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+    │    └ <function Arbiter.spawn_workers at 0x7f9a7fd06040>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+    │    └ <function Arbiter.spawn_worker at 0x7f9a800e5f70>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+    │      └ <function Worker.init_process at 0x7f9a7fb0c3a0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+    │    └ <function SyncWorker.run at 0x7f9a7fb0caf0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+    │    │           └ 15.0
+    │    └ <function SyncWorker.run_for_one at 0x7f9a7fb0c9d0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.accept at 0x7f9a7fb62160>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+    │    │      │         │       └ ('127.0.0.1', 52252)
+    │    │      │         └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle at 0x7f9a7fb0cb80>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+    │    │              │         │    │       └ ('127.0.0.1', 52252)
+    │    │              │         │    └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │              │         └ <gunicorn.http.message.Request object at 0x7f9a7eea73d0>
+    │    │              └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle_request at 0x7f9a7fb0cc10>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+               │    │    │        │    └ <function Response.start_response at 0x7f9a7fb59a60>
+               │    │    │        └ <gunicorn.http.wsgi.Response object at 0x7f9a7eea75e0>
+               │    │    └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7eea7730>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+               │    └ <Flask 'app2'>
+               └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <bound method Response.start_response of <gunicorn.http.wsgi.Response object at 0x7f9a7eea75e0>>
+           │    │        └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7eea7730>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+           │    └ <function Flask.wsgi_app at 0x7f9a7f46d550>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f9a7f46ad30>
+               └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f9a7f46aca0>
+         └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f9a7d6cc700>, '_dash_assets.static': <bound method Blueprint.send...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f9a7f46aee0>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of 'Context' objects>
+    └ <Context object at 0x7f9a7d606600>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [10, 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1\n', '', ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot', ['pdfa2...
+                   └ <function translate at 0x7f9a7d6f4dc0>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in translate
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │                                │             └ <method 'split' of 'str' objects>
+                │   │                                └ ''
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in <listcomp>
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │            │ │            └ ''
+                │   │            │ └ <method 'strip' of 'str' objects>
+                │   │            └ ''
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/usr/lib/python3.8/ast.py", line 59, in literal_eval
+    node_or_string = parse(node_or_string, mode='eval')
+                     │     └ ''
+                     └ <function parse at 0x7f9a804623a0>
+  File "/usr/lib/python3.8/ast.py", line 47, in parse
+    return compile(source, filename, mode, flags,
+                   │       │         │     └ 1024
+                   │       │         └ 'eval'
+                   │       └ '<unknown>'
+                   └ ''
+  File "<unknown>", line 0
+    
+    ^
+
+SyntaxError: unexpected EOF while parsing
+2023-11-15 13:02:58.030 | ERROR    | app2:translate:316 - unexpected EOF while parsing (<unknown>, line 0)
+Traceback (most recent call last):
+
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+    │   │    └ <function run at 0x7f9a804aa790>
+    │   └ <built-in function exit>
+    └ <module 'sys' (built-in)>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+    └ <class 'gunicorn.app.wsgiapp.WSGIApplication'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+    │       └ <gunicorn.app.wsgiapp.WSGIApplication object at 0x7f9a805d8370>
+    └ <class 'gunicorn.arbiter.Arbiter'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+    │    └ <function Arbiter.manage_workers at 0x7f9a800e5ee0>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+    │    └ <function Arbiter.spawn_workers at 0x7f9a7fd06040>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+    │    └ <function Arbiter.spawn_worker at 0x7f9a800e5f70>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+    │      └ <function Worker.init_process at 0x7f9a7fb0c3a0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+    │    └ <function SyncWorker.run at 0x7f9a7fb0caf0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+    │    │           └ 15.0
+    │    └ <function SyncWorker.run_for_one at 0x7f9a7fb0c9d0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.accept at 0x7f9a7fb62160>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+    │    │      │         │       └ ('127.0.0.1', 52254)
+    │    │      │         └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle at 0x7f9a7fb0cb80>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+    │    │              │         │    │       └ ('127.0.0.1', 52254)
+    │    │              │         │    └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │              │         └ <gunicorn.http.message.Request object at 0x7f9a7c332700>
+    │    │              └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle_request at 0x7f9a7fb0cc10>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+               │    │    │        │    └ <function Response.start_response at 0x7f9a7fb59a60>
+               │    │    │        └ <gunicorn.http.wsgi.Response object at 0x7f9a7c3327c0>
+               │    │    └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7c332640>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+               │    └ <Flask 'app2'>
+               └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <bound method Response.start_response of <gunicorn.http.wsgi.Response object at 0x7f9a7c3327c0>>
+           │    │        └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7c332640>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+           │    └ <function Flask.wsgi_app at 0x7f9a7f46d550>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f9a7f46ad30>
+               └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f9a7f46aca0>
+         └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f9a7d6cc700>, '_dash_assets.static': <bound method Blueprint.send...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f9a7f46aee0>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of 'Context' objects>
+    └ <Context object at 0x7f9a7c33a780>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [11, 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1', '', ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot', ['pdfa2pn...
+                   └ <function translate at 0x7f9a7d6f4dc0>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in translate
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │                                │             └ <method 'split' of 'str' objects>
+                │   │                                └ ''
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 245, in <listcomp>
+    alphabet = [ast.literal_eval(s.strip()) for s in text_alphabet.split("\n")]
+                │   │            │ │            └ ''
+                │   │            │ └ <method 'strip' of 'str' objects>
+                │   │            └ ''
+                │   └ <function literal_eval at 0x7f9a80462430>
+                └ <module 'ast' from '/usr/lib/python3.8/ast.py'>
+
+  File "/usr/lib/python3.8/ast.py", line 59, in literal_eval
+    node_or_string = parse(node_or_string, mode='eval')
+                     │     └ ''
+                     └ <function parse at 0x7f9a804623a0>
+  File "/usr/lib/python3.8/ast.py", line 47, in parse
+    return compile(source, filename, mode, flags,
+                   │       │         │     └ 1024
+                   │       │         └ 'eval'
+                   │       └ '<unknown>'
+                   └ ''
+  File "<unknown>", line 0
+    
+    ^
+
+SyntaxError: unexpected EOF while parsing
+2023-11-15 13:03:00.746 | INFO     | app2:translate:235 - init button click
+2023-11-15 13:03:02.283 | ERROR    | app2:translate:316 - The formula is ill-formed. Unrecognized operator ``
+Traceback (most recent call last):
+
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+    │   │    └ <function run at 0x7f9a804aa790>
+    │   └ <built-in function exit>
+    └ <module 'sys' (built-in)>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+    └ <class 'gunicorn.app.wsgiapp.WSGIApplication'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+    │       └ <gunicorn.app.wsgiapp.WSGIApplication object at 0x7f9a805d8370>
+    └ <class 'gunicorn.arbiter.Arbiter'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+    │    └ <function Arbiter.manage_workers at 0x7f9a800e5ee0>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+    │    └ <function Arbiter.spawn_workers at 0x7f9a7fd06040>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+    │    └ <function Arbiter.spawn_worker at 0x7f9a800e5f70>
+    └ <gunicorn.arbiter.Arbiter object at 0x7f9a805d8460>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+    │      └ <function Worker.init_process at 0x7f9a7fb0c3a0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+    │    └ <function SyncWorker.run at 0x7f9a7fb0caf0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+    │    │           └ 15.0
+    │    └ <function SyncWorker.run_for_one at 0x7f9a7fb0c9d0>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.accept at 0x7f9a7fb62160>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+    │    │      │         │       └ ('127.0.0.1', 52272)
+    │    │      │         └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │      └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle at 0x7f9a7fb0cb80>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+    │    │              │         │    │       └ ('127.0.0.1', 52272)
+    │    │              │         │    └ <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('...
+    │    │              │         └ <gunicorn.http.message.Request object at 0x7f9a7d69f940>
+    │    │              └ <gunicorn.sock.TCPSocket object at 0x7f9a803a6970>
+    │    └ <function SyncWorker.handle_request at 0x7f9a7fb0cc10>
+    └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+               │    │    │        │    └ <function Response.start_response at 0x7f9a7fb59a60>
+               │    │    │        └ <gunicorn.http.wsgi.Response object at 0x7f9a7fb56940>
+               │    │    └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7fb568b0>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+               │    └ <Flask 'app2'>
+               └ <gunicorn.workers.sync.SyncWorker object at 0x7f9a7fc173a0>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           │    │        │        └ <bound method Response.start_response of <gunicorn.http.wsgi.Response object at 0x7f9a7fb56940>>
+           │    │        └ {'wsgi.errors': <gunicorn.http.wsgi.WSGIErrorsWrapper object at 0x7f9a7fb568b0>, 'wsgi.version': (1, 0), 'wsgi.multithread': ...
+           │    └ <function Flask.wsgi_app at 0x7f9a7f46d550>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               │    └ <function Flask.full_dispatch_request at 0x7f9a7f46ad30>
+               └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         │    └ <function Flask.dispatch_request at 0x7f9a7f46aca0>
+         └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           │    │           │    │              │    │            └ {}
+           │    │           │    │              │    └ '/_dash-update-component'
+           │    │           │    │              └ <Rule '/_dash-update-component' (OPTIONS, POST) -> /_dash-update-component>
+           │    │           │    └ {'static': <function Flask.__init__.<locals>.<lambda> at 0x7f9a7d6cc700>, '_dash_assets.static': <bound method Blueprint.send...
+           │    │           └ <Flask 'app2'>
+           │    └ <function Flask.ensure_sync at 0x7f9a7f46aee0>
+           └ <Flask 'app2'>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/dash.py", line 1310, in dispatch
+    ctx.run(
+    │   └ <method 'run' of 'Context' objects>
+    └ <Context object at 0x7f9a7c33a780>
+  File "/mnt/e/Non-Github-Projects/AWS_Beanstalk_Try/venv/lib/python3.8/site-packages/dash/_callback.py", line 442, in add_context
+    output_value = func(*func_args, **func_kwargs)  # %% callback invoked %%
+                   │     │            └ {}
+                   │     └ [1, 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1\n', None, ['dfa2png-enable'], 'dfa2png-dot', ['spec2png-enable'], 'spec2png-dot', ['pdfa...
+                   └ <function translate at 0x7f9a7d6f4dc0>
+
+> File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/app2.py", line 250, in translate
+    spec = translate2.PrefLTLf(text_spec, alphabet=alphabet)
+           │          │        │                   └ None
+           │          │        └ 'prefltlf 2\nF(a)\nF(b)\n>, 0, 1\n'
+           │          └ <class 'translate2.PrefLTLf'>
+           └ <module 'translate2' from '/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantit...
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/translate2.py", line 106, in __init__
+    self.parse()
+    │    └ <function PrefLTLf.parse at 0x7f9a7d6a14c0>
+    └ <PrefLTLf Formula at 140301530986384>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/translate2.py", line 151, in parse
+    relation_spec = self._parse_relation(raw_spec[num_ltlf + 1:])
+                    │    │               │        └ 2
+                    │    │               └ ['prefltlf 2', 'F(a)', 'F(b)', '>, 0, 1', '']
+                    │    └ <function PrefLTLf._parse_relation at 0x7f9a7d6a1700>
+                    └ <PrefLTLf Formula at 140301530986384>
+
+  File "/mnt/e/OneDrive - University of Florida/4- Ongoing Research/4- Preference-based Planning/2-Quantitative_PrefLTLf/prefltlf2pdfa/webapp/translate2.py", line 204, in _parse_relation
+    assert pref_type in [">", ">=", "~", "<>"], f"The formula is ill-formed. Unrecognized operator `{pref_type}`"
+           └ ''
+
+AssertionError: The formula is ill-formed. Unrecognized operator ``

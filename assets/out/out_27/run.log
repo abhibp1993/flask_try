@@ -1,0 +1,771 @@
+2023-10-25 15:04:16.351 | DEBUG    | translate:build_prefltlf_model:109 - Constructed preorder except incomparability: 
+{(F(a), F(c)),
+ (F(c), !(F(b))),
+ (!(F(a)), !(F(c))),
+ (F(b), !(F(a))),
+ (F(a), F(b))}
+2023-10-25 15:04:16.352 | DEBUG    | translate:build_prefltlf_model:123 - Constructed preorder: 
+{(F(a), F(c)),
+ (F(c), !(F(b))),
+ (!(F(a)), !(F(c))),
+ (F(b), !(F(a))),
+ (F(a), F(b))}
+2023-10-25 15:04:16.353 | DEBUG    | translate:build_prefltlf_model:138 - Reflexive closure of preorder: 
+[('!(F(a))', '!(F(c))'),
+ ('!(F(c))', '!(F(c))'),
+ ('F(b)', 'F(b)'),
+ ('F(a)', 'F(b)'),
+ ('F(b)', '!(F(a))'),
+ ('!(F(b))', '!(F(b))'),
+ ('F(c)', '!(F(b))'),
+ ('F(a)', 'F(c)'),
+ ('F(c)', 'F(c)'),
+ ('!(F(a))', '!(F(a))'),
+ ('F(a)', 'F(a)')]
+2023-10-25 15:04:16.359 | DEBUG    | translate:build_prefltlf_model:142 - Transitive closure of preorder: 
+[('F(a)', 'F(b)'),
+ ('F(b)', '!(F(a))'),
+ ('!(F(b))', '!(F(b))'),
+ ('F(a)', 'F(c)'),
+ ('F(c)', 'F(c)'),
+ ('F(a)', '!(F(c))'),
+ ('F(a)', 'F(a)'),
+ ('!(F(a))', '!(F(c))'),
+ ('!(F(c))', '!(F(c))'),
+ ('F(b)', 'F(b)'),
+ ('F(c)', '!(F(b))'),
+ ('F(a)', '!(F(a))'),
+ ('F(b)', '!(F(c))'),
+ ('F(a)', '!(F(b))'),
+ ('!(F(a))', '!(F(a))')]
+2023-10-25 15:04:16.360 | INFO     | app:update_images:156 - Model: 
+Atoms:
+	['c', 'a', 'b']
+Phi:
+	F(a)
+	F(b)
+	F(c)
+	!(F(a))
+	!(F(b))
+	!(F(c))
+Preorder:
+	F(a) >= F(b)
+	F(b) >= !(F(a))
+	!(F(b)) >= !(F(b))
+	F(a) >= F(c)
+	F(c) >= F(c)
+	F(a) >= !(F(c))
+	F(a) >= F(a)
+	!(F(a)) >= !(F(c))
+	!(F(c)) >= !(F(c))
+	F(b) >= F(b)
+	F(c) >= !(F(b))
+	F(a) >= !(F(a))
+	F(b) >= !(F(c))
+	F(a) >= !(F(b))
+	!(F(a)) >= !(F(a))
+
+2023-10-25 15:04:16.390 | INFO     | translate:translate:221 - DFA(F(a)): 
+{'final_states': {'2'},
+ 'init_state': '1',
+ 'states': {'1', '2'},
+ 'transitions': {'1': {'a': '2', '~a': '1'}, '2': {'true': '2'}}}
+2023-10-25 15:04:16.412 | INFO     | translate:translate:221 - DFA(F(b)): 
+{'final_states': {'2'},
+ 'init_state': '1',
+ 'states': {'1', '2'},
+ 'transitions': {'1': {'b': '2', '~b': '1'}, '2': {'true': '2'}}}
+2023-10-25 15:04:16.434 | INFO     | translate:translate:221 - DFA(F(c)): 
+{'final_states': {'2'},
+ 'init_state': '1',
+ 'states': {'1', '2'},
+ 'transitions': {'1': {'c': '2', '~c': '1'}, '2': {'true': '2'}}}
+2023-10-25 15:04:16.459 | INFO     | translate:translate:221 - DFA(!(F(a))): 
+{'final_states': {'1'},
+ 'init_state': '1',
+ 'states': {'1', '2'},
+ 'transitions': {'1': {'a': '2', '~a': '1'}, '2': {'true': '2'}}}
+2023-10-25 15:04:16.486 | INFO     | translate:translate:221 - DFA(!(F(b))): 
+{'final_states': {'1'},
+ 'init_state': '1',
+ 'states': {'1', '2'},
+ 'transitions': {'1': {'b': '2', '~b': '1'}, '2': {'true': '2'}}}
+2023-10-25 15:04:16.509 | INFO     | translate:translate:221 - DFA(!(F(c))): 
+{'final_states': {'1'},
+ 'init_state': '1',
+ 'states': {'1', '2'},
+ 'transitions': {'1': {'c': '2', '~c': '1'}, '2': {'true': '2'}}}
+2023-10-25 15:04:16.920 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', 'c', '~a', '~b', '~c'), 
+	LabelJoin: (a) & (b) & (c) & (~a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:16.931 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', 'c', '~a', '~b', 'c'), 
+	LabelJoin: (a) & (b) & (c) & (~a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:16.940 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', 'c', '~a', 'b', '~c'), 
+	LabelJoin: (a) & (b) & (c) & (~a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:16.948 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', 'c', '~a', 'b', 'c'), 
+	LabelJoin: (a) & (b) & (c) & (~a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:16.957 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', 'c', 'a', '~b', '~c'), 
+	LabelJoin: (a) & (b) & (c) & (a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:16.964 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', 'c', 'a', '~b', 'c'), 
+	LabelJoin: (a) & (b) & (c) & (a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:16.971 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', 'c', 'a', 'b', '~c'), 
+	LabelJoin: (a) & (b) & (c) & (a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:16.981 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', 'c', 'a', 'b', 'c'), 
+	LabelJoin: (a) & (b) & (c) & (a) & (b) & (c), 
+	Label: a & b & c
+2023-10-25 15:04:16.991 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', '~c', '~a', '~b', '~c'), 
+	LabelJoin: (a) & (b) & (~c) & (~a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.000 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', '~c', '~a', '~b', 'c'), 
+	LabelJoin: (a) & (b) & (~c) & (~a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.011 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', '~c', '~a', 'b', '~c'), 
+	LabelJoin: (a) & (b) & (~c) & (~a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.019 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', '~c', '~a', 'b', 'c'), 
+	LabelJoin: (a) & (b) & (~c) & (~a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.028 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', '~c', 'a', '~b', '~c'), 
+	LabelJoin: (a) & (b) & (~c) & (a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.037 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', '~c', 'a', '~b', 'c'), 
+	LabelJoin: (a) & (b) & (~c) & (a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.046 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', '~c', 'a', 'b', '~c'), 
+	LabelJoin: (a) & (b) & (~c) & (a) & (b) & (~c), 
+	Label: a & b & ~c
+2023-10-25 15:04:17.054 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', 'b', '~c', 'a', 'b', 'c'), 
+	LabelJoin: (a) & (b) & (~c) & (a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.064 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', 'c', '~a', '~b', '~c'), 
+	LabelJoin: (a) & (~b) & (c) & (~a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.073 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', 'c', '~a', '~b', 'c'), 
+	LabelJoin: (a) & (~b) & (c) & (~a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.083 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', 'c', '~a', 'b', '~c'), 
+	LabelJoin: (a) & (~b) & (c) & (~a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.094 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', 'c', '~a', 'b', 'c'), 
+	LabelJoin: (a) & (~b) & (c) & (~a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.102 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', 'c', 'a', '~b', '~c'), 
+	LabelJoin: (a) & (~b) & (c) & (a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.111 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', 'c', 'a', '~b', 'c'), 
+	LabelJoin: (a) & (~b) & (c) & (a) & (~b) & (c), 
+	Label: a & c & ~b
+2023-10-25 15:04:17.120 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', 'c', 'a', 'b', '~c'), 
+	LabelJoin: (a) & (~b) & (c) & (a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.128 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', 'c', 'a', 'b', 'c'), 
+	LabelJoin: (a) & (~b) & (c) & (a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.139 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', '~c', '~a', '~b', '~c'), 
+	LabelJoin: (a) & (~b) & (~c) & (~a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.149 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', '~c', '~a', '~b', 'c'), 
+	LabelJoin: (a) & (~b) & (~c) & (~a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.159 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', '~c', '~a', 'b', '~c'), 
+	LabelJoin: (a) & (~b) & (~c) & (~a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.169 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', '~c', '~a', 'b', 'c'), 
+	LabelJoin: (a) & (~b) & (~c) & (~a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.182 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', '~c', 'a', '~b', '~c'), 
+	LabelJoin: (a) & (~b) & (~c) & (a) & (~b) & (~c), 
+	Label: a & ~b & ~c
+2023-10-25 15:04:17.191 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', '~c', 'a', '~b', 'c'), 
+	LabelJoin: (a) & (~b) & (~c) & (a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.199 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', '~c', 'a', 'b', '~c'), 
+	LabelJoin: (a) & (~b) & (~c) & (a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.209 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('a', '~b', '~c', 'a', 'b', 'c'), 
+	LabelJoin: (a) & (~b) & (~c) & (a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.218 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', 'c', '~a', '~b', '~c'), 
+	LabelJoin: (~a) & (b) & (c) & (~a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.227 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', 'c', '~a', '~b', 'c'), 
+	LabelJoin: (~a) & (b) & (c) & (~a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.234 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', 'c', '~a', 'b', '~c'), 
+	LabelJoin: (~a) & (b) & (c) & (~a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.244 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', 'c', '~a', 'b', 'c'), 
+	LabelJoin: (~a) & (b) & (c) & (~a) & (b) & (c), 
+	Label: b & c & ~a
+2023-10-25 15:04:17.254 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', 'c', 'a', '~b', '~c'), 
+	LabelJoin: (~a) & (b) & (c) & (a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.265 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', 'c', 'a', '~b', 'c'), 
+	LabelJoin: (~a) & (b) & (c) & (a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.273 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', 'c', 'a', 'b', '~c'), 
+	LabelJoin: (~a) & (b) & (c) & (a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.281 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', 'c', 'a', 'b', 'c'), 
+	LabelJoin: (~a) & (b) & (c) & (a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.291 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', '~c', '~a', '~b', '~c'), 
+	LabelJoin: (~a) & (b) & (~c) & (~a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.300 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', '~c', '~a', '~b', 'c'), 
+	LabelJoin: (~a) & (b) & (~c) & (~a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.311 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', '~c', '~a', 'b', '~c'), 
+	LabelJoin: (~a) & (b) & (~c) & (~a) & (b) & (~c), 
+	Label: b & ~a & ~c
+2023-10-25 15:04:17.319 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', '~c', '~a', 'b', 'c'), 
+	LabelJoin: (~a) & (b) & (~c) & (~a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.329 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', '~c', 'a', '~b', '~c'), 
+	LabelJoin: (~a) & (b) & (~c) & (a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.341 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', '~c', 'a', '~b', 'c'), 
+	LabelJoin: (~a) & (b) & (~c) & (a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.350 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', '~c', 'a', 'b', '~c'), 
+	LabelJoin: (~a) & (b) & (~c) & (a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.359 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', 'b', '~c', 'a', 'b', 'c'), 
+	LabelJoin: (~a) & (b) & (~c) & (a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.369 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', 'c', '~a', '~b', '~c'), 
+	LabelJoin: (~a) & (~b) & (c) & (~a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.378 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', 'c', '~a', '~b', 'c'), 
+	LabelJoin: (~a) & (~b) & (c) & (~a) & (~b) & (c), 
+	Label: c & ~a & ~b
+2023-10-25 15:04:17.388 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', 'c', '~a', 'b', '~c'), 
+	LabelJoin: (~a) & (~b) & (c) & (~a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.397 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', 'c', '~a', 'b', 'c'), 
+	LabelJoin: (~a) & (~b) & (c) & (~a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.407 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', 'c', 'a', '~b', '~c'), 
+	LabelJoin: (~a) & (~b) & (c) & (a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.417 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', 'c', 'a', '~b', 'c'), 
+	LabelJoin: (~a) & (~b) & (c) & (a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.427 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', 'c', 'a', 'b', '~c'), 
+	LabelJoin: (~a) & (~b) & (c) & (a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.437 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', 'c', 'a', 'b', 'c'), 
+	LabelJoin: (~a) & (~b) & (c) & (a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.449 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', '~c', '~a', '~b', '~c'), 
+	LabelJoin: (~a) & (~b) & (~c) & (~a) & (~b) & (~c), 
+	Label: ~a & ~b & ~c
+2023-10-25 15:04:17.458 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', '~c', '~a', '~b', 'c'), 
+	LabelJoin: (~a) & (~b) & (~c) & (~a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.470 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', '~c', '~a', 'b', '~c'), 
+	LabelJoin: (~a) & (~b) & (~c) & (~a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.479 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', '~c', '~a', 'b', 'c'), 
+	LabelJoin: (~a) & (~b) & (~c) & (~a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.490 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', '~c', 'a', '~b', '~c'), 
+	LabelJoin: (~a) & (~b) & (~c) & (a) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.503 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', '~c', 'a', '~b', 'c'), 
+	LabelJoin: (~a) & (~b) & (~c) & (a) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.514 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', '~c', 'a', 'b', '~c'), 
+	LabelJoin: (~a) & (~b) & (~c) & (a) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.525 | DEBUG    | translate:union_product:309 - [('1', '1', '1', '1', '1', '1')] 
+	Guard: ('~a', '~b', '~c', 'a', 'b', 'c'), 
+	LabelJoin: (~a) & (~b) & (~c) & (a) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.533 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('a', 'b', 'true', '~a', '~b', 'true'), 
+	LabelJoin: (a) & (b) & (true) & (~a) & (~b) & (true), 
+	Label: False
+2023-10-25 15:04:17.540 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('a', 'b', 'true', '~a', 'b', 'true'), 
+	LabelJoin: (a) & (b) & (true) & (~a) & (b) & (true), 
+	Label: False
+2023-10-25 15:04:17.546 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('a', 'b', 'true', 'a', '~b', 'true'), 
+	LabelJoin: (a) & (b) & (true) & (a) & (~b) & (true), 
+	Label: False
+2023-10-25 15:04:17.552 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('a', 'b', 'true', 'a', 'b', 'true'), 
+	LabelJoin: (a) & (b) & (true) & (a) & (b) & (true), 
+	Label: a & b
+2023-10-25 15:04:17.560 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('a', '~b', 'true', '~a', '~b', 'true'), 
+	LabelJoin: (a) & (~b) & (true) & (~a) & (~b) & (true), 
+	Label: False
+2023-10-25 15:04:17.568 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('a', '~b', 'true', '~a', 'b', 'true'), 
+	LabelJoin: (a) & (~b) & (true) & (~a) & (b) & (true), 
+	Label: False
+2023-10-25 15:04:17.576 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('a', '~b', 'true', 'a', '~b', 'true'), 
+	LabelJoin: (a) & (~b) & (true) & (a) & (~b) & (true), 
+	Label: a & ~b
+2023-10-25 15:04:17.583 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('a', '~b', 'true', 'a', 'b', 'true'), 
+	LabelJoin: (a) & (~b) & (true) & (a) & (b) & (true), 
+	Label: False
+2023-10-25 15:04:17.590 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('~a', 'b', 'true', '~a', '~b', 'true'), 
+	LabelJoin: (~a) & (b) & (true) & (~a) & (~b) & (true), 
+	Label: False
+2023-10-25 15:04:17.596 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('~a', 'b', 'true', '~a', 'b', 'true'), 
+	LabelJoin: (~a) & (b) & (true) & (~a) & (b) & (true), 
+	Label: b & ~a
+2023-10-25 15:04:17.604 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('~a', 'b', 'true', 'a', '~b', 'true'), 
+	LabelJoin: (~a) & (b) & (true) & (a) & (~b) & (true), 
+	Label: False
+2023-10-25 15:04:17.612 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('~a', 'b', 'true', 'a', 'b', 'true'), 
+	LabelJoin: (~a) & (b) & (true) & (a) & (b) & (true), 
+	Label: False
+2023-10-25 15:04:17.621 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('~a', '~b', 'true', '~a', '~b', 'true'), 
+	LabelJoin: (~a) & (~b) & (true) & (~a) & (~b) & (true), 
+	Label: ~a & ~b
+2023-10-25 15:04:17.628 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('~a', '~b', 'true', '~a', 'b', 'true'), 
+	LabelJoin: (~a) & (~b) & (true) & (~a) & (b) & (true), 
+	Label: False
+2023-10-25 15:04:17.640 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('~a', '~b', 'true', 'a', '~b', 'true'), 
+	LabelJoin: (~a) & (~b) & (true) & (a) & (~b) & (true), 
+	Label: False
+2023-10-25 15:04:17.649 | DEBUG    | translate:union_product:309 - [('1', '1', '2', '1', '1', '2')] 
+	Guard: ('~a', '~b', 'true', 'a', 'b', 'true'), 
+	LabelJoin: (~a) & (~b) & (true) & (a) & (b) & (true), 
+	Label: False
+2023-10-25 15:04:17.655 | DEBUG    | translate:union_product:309 - [('1', '2', '2', '1', '2', '2')] 
+	Guard: ('a', 'true', 'true', '~a', 'true', 'true'), 
+	LabelJoin: (a) & (true) & (true) & (~a) & (true) & (true), 
+	Label: False
+2023-10-25 15:04:17.658 | DEBUG    | translate:union_product:309 - [('1', '2', '2', '1', '2', '2')] 
+	Guard: ('a', 'true', 'true', 'a', 'true', 'true'), 
+	LabelJoin: (a) & (true) & (true) & (a) & (true) & (true), 
+	Label: a
+2023-10-25 15:04:17.662 | DEBUG    | translate:union_product:309 - [('1', '2', '2', '1', '2', '2')] 
+	Guard: ('~a', 'true', 'true', '~a', 'true', 'true'), 
+	LabelJoin: (~a) & (true) & (true) & (~a) & (true) & (true), 
+	Label: ~a
+2023-10-25 15:04:17.667 | DEBUG    | translate:union_product:309 - [('1', '2', '2', '1', '2', '2')] 
+	Guard: ('~a', 'true', 'true', 'a', 'true', 'true'), 
+	LabelJoin: (~a) & (true) & (true) & (a) & (true) & (true), 
+	Label: False
+2023-10-25 15:04:17.670 | DEBUG    | translate:union_product:309 - [('2', '2', '2', '2', '2', '2')] 
+	Guard: ('true', 'true', 'true', 'true', 'true', 'true'), 
+	LabelJoin: (true) & (true) & (true) & (true) & (true) & (true), 
+	Label: True
+2023-10-25 15:04:17.675 | DEBUG    | translate:union_product:309 - [('2', '1', '2', '2', '1', '2')] 
+	Guard: ('true', 'b', 'true', 'true', '~b', 'true'), 
+	LabelJoin: (true) & (b) & (true) & (true) & (~b) & (true), 
+	Label: False
+2023-10-25 15:04:17.678 | DEBUG    | translate:union_product:309 - [('2', '1', '2', '2', '1', '2')] 
+	Guard: ('true', 'b', 'true', 'true', 'b', 'true'), 
+	LabelJoin: (true) & (b) & (true) & (true) & (b) & (true), 
+	Label: b
+2023-10-25 15:04:17.682 | DEBUG    | translate:union_product:309 - [('2', '1', '2', '2', '1', '2')] 
+	Guard: ('true', '~b', 'true', 'true', '~b', 'true'), 
+	LabelJoin: (true) & (~b) & (true) & (true) & (~b) & (true), 
+	Label: ~b
+2023-10-25 15:04:17.687 | DEBUG    | translate:union_product:309 - [('2', '1', '2', '2', '1', '2')] 
+	Guard: ('true', '~b', 'true', 'true', 'b', 'true'), 
+	LabelJoin: (true) & (~b) & (true) & (true) & (b) & (true), 
+	Label: False
+2023-10-25 15:04:17.690 | DEBUG    | translate:union_product:309 - [('2', '2', '2', '2', '2', '2')] 
+	Guard: ('true', 'true', 'true', 'true', 'true', 'true'), 
+	LabelJoin: (true) & (true) & (true) & (true) & (true) & (true), 
+	Label: True
+2023-10-25 15:04:17.698 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('a', 'true', 'c', '~a', 'true', '~c'), 
+	LabelJoin: (a) & (true) & (c) & (~a) & (true) & (~c), 
+	Label: False
+2023-10-25 15:04:17.705 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('a', 'true', 'c', '~a', 'true', 'c'), 
+	LabelJoin: (a) & (true) & (c) & (~a) & (true) & (c), 
+	Label: False
+2023-10-25 15:04:17.711 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('a', 'true', 'c', 'a', 'true', '~c'), 
+	LabelJoin: (a) & (true) & (c) & (a) & (true) & (~c), 
+	Label: False
+2023-10-25 15:04:17.717 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('a', 'true', 'c', 'a', 'true', 'c'), 
+	LabelJoin: (a) & (true) & (c) & (a) & (true) & (c), 
+	Label: a & c
+2023-10-25 15:04:17.724 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('a', 'true', '~c', '~a', 'true', '~c'), 
+	LabelJoin: (a) & (true) & (~c) & (~a) & (true) & (~c), 
+	Label: False
+2023-10-25 15:04:17.733 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('a', 'true', '~c', '~a', 'true', 'c'), 
+	LabelJoin: (a) & (true) & (~c) & (~a) & (true) & (c), 
+	Label: False
+2023-10-25 15:04:17.740 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('a', 'true', '~c', 'a', 'true', '~c'), 
+	LabelJoin: (a) & (true) & (~c) & (a) & (true) & (~c), 
+	Label: a & ~c
+2023-10-25 15:04:17.746 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('a', 'true', '~c', 'a', 'true', 'c'), 
+	LabelJoin: (a) & (true) & (~c) & (a) & (true) & (c), 
+	Label: False
+2023-10-25 15:04:17.752 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('~a', 'true', 'c', '~a', 'true', '~c'), 
+	LabelJoin: (~a) & (true) & (c) & (~a) & (true) & (~c), 
+	Label: False
+2023-10-25 15:04:17.759 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('~a', 'true', 'c', '~a', 'true', 'c'), 
+	LabelJoin: (~a) & (true) & (c) & (~a) & (true) & (c), 
+	Label: c & ~a
+2023-10-25 15:04:17.766 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('~a', 'true', 'c', 'a', 'true', '~c'), 
+	LabelJoin: (~a) & (true) & (c) & (a) & (true) & (~c), 
+	Label: False
+2023-10-25 15:04:17.773 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('~a', 'true', 'c', 'a', 'true', 'c'), 
+	LabelJoin: (~a) & (true) & (c) & (a) & (true) & (c), 
+	Label: False
+2023-10-25 15:04:17.783 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('~a', 'true', '~c', '~a', 'true', '~c'), 
+	LabelJoin: (~a) & (true) & (~c) & (~a) & (true) & (~c), 
+	Label: ~a & ~c
+2023-10-25 15:04:17.790 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('~a', 'true', '~c', '~a', 'true', 'c'), 
+	LabelJoin: (~a) & (true) & (~c) & (~a) & (true) & (c), 
+	Label: False
+2023-10-25 15:04:17.799 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('~a', 'true', '~c', 'a', 'true', '~c'), 
+	LabelJoin: (~a) & (true) & (~c) & (a) & (true) & (~c), 
+	Label: False
+2023-10-25 15:04:17.808 | DEBUG    | translate:union_product:309 - [('1', '2', '1', '1', '2', '1')] 
+	Guard: ('~a', 'true', '~c', 'a', 'true', 'c'), 
+	LabelJoin: (~a) & (true) & (~c) & (a) & (true) & (c), 
+	Label: False
+2023-10-25 15:04:17.814 | DEBUG    | translate:union_product:309 - [('2', '2', '1', '2', '2', '1')] 
+	Guard: ('true', 'true', 'c', 'true', 'true', '~c'), 
+	LabelJoin: (true) & (true) & (c) & (true) & (true) & (~c), 
+	Label: False
+2023-10-25 15:04:17.817 | DEBUG    | translate:union_product:309 - [('2', '2', '1', '2', '2', '1')] 
+	Guard: ('true', 'true', 'c', 'true', 'true', 'c'), 
+	LabelJoin: (true) & (true) & (c) & (true) & (true) & (c), 
+	Label: c
+2023-10-25 15:04:17.820 | DEBUG    | translate:union_product:309 - [('2', '2', '1', '2', '2', '1')] 
+	Guard: ('true', 'true', '~c', 'true', 'true', '~c'), 
+	LabelJoin: (true) & (true) & (~c) & (true) & (true) & (~c), 
+	Label: ~c
+2023-10-25 15:04:17.825 | DEBUG    | translate:union_product:309 - [('2', '2', '1', '2', '2', '1')] 
+	Guard: ('true', 'true', '~c', 'true', 'true', 'c'), 
+	LabelJoin: (true) & (true) & (~c) & (true) & (true) & (c), 
+	Label: False
+2023-10-25 15:04:17.829 | DEBUG    | translate:union_product:309 - [('1', '2', '2', '1', '2', '2')] 
+	Guard: ('a', 'true', 'true', '~a', 'true', 'true'), 
+	LabelJoin: (a) & (true) & (true) & (~a) & (true) & (true), 
+	Label: False
+2023-10-25 15:04:17.832 | DEBUG    | translate:union_product:309 - [('1', '2', '2', '1', '2', '2')] 
+	Guard: ('a', 'true', 'true', 'a', 'true', 'true'), 
+	LabelJoin: (a) & (true) & (true) & (a) & (true) & (true), 
+	Label: a
+2023-10-25 15:04:17.836 | DEBUG    | translate:union_product:309 - [('1', '2', '2', '1', '2', '2')] 
+	Guard: ('~a', 'true', 'true', '~a', 'true', 'true'), 
+	LabelJoin: (~a) & (true) & (true) & (~a) & (true) & (true), 
+	Label: ~a
+2023-10-25 15:04:17.842 | DEBUG    | translate:union_product:309 - [('1', '2', '2', '1', '2', '2')] 
+	Guard: ('~a', 'true', 'true', 'a', 'true', 'true'), 
+	LabelJoin: (~a) & (true) & (true) & (a) & (true) & (true), 
+	Label: False
+2023-10-25 15:04:17.849 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', 'b', 'c', 'true', '~b', '~c'), 
+	LabelJoin: (true) & (b) & (c) & (true) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.855 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', 'b', 'c', 'true', '~b', 'c'), 
+	LabelJoin: (true) & (b) & (c) & (true) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.862 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', 'b', 'c', 'true', 'b', '~c'), 
+	LabelJoin: (true) & (b) & (c) & (true) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.867 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', 'b', 'c', 'true', 'b', 'c'), 
+	LabelJoin: (true) & (b) & (c) & (true) & (b) & (c), 
+	Label: b & c
+2023-10-25 15:04:17.875 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', 'b', '~c', 'true', '~b', '~c'), 
+	LabelJoin: (true) & (b) & (~c) & (true) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.882 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', 'b', '~c', 'true', '~b', 'c'), 
+	LabelJoin: (true) & (b) & (~c) & (true) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.890 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', 'b', '~c', 'true', 'b', '~c'), 
+	LabelJoin: (true) & (b) & (~c) & (true) & (b) & (~c), 
+	Label: b & ~c
+2023-10-25 15:04:17.896 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', 'b', '~c', 'true', 'b', 'c'), 
+	LabelJoin: (true) & (b) & (~c) & (true) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.903 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', '~b', 'c', 'true', '~b', '~c'), 
+	LabelJoin: (true) & (~b) & (c) & (true) & (~b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.909 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', '~b', 'c', 'true', '~b', 'c'), 
+	LabelJoin: (true) & (~b) & (c) & (true) & (~b) & (c), 
+	Label: c & ~b
+2023-10-25 15:04:17.917 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', '~b', 'c', 'true', 'b', '~c'), 
+	LabelJoin: (true) & (~b) & (c) & (true) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.924 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', '~b', 'c', 'true', 'b', 'c'), 
+	LabelJoin: (true) & (~b) & (c) & (true) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.931 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', '~b', '~c', 'true', '~b', '~c'), 
+	LabelJoin: (true) & (~b) & (~c) & (true) & (~b) & (~c), 
+	Label: ~b & ~c
+2023-10-25 15:04:17.940 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', '~b', '~c', 'true', '~b', 'c'), 
+	LabelJoin: (true) & (~b) & (~c) & (true) & (~b) & (c), 
+	Label: False
+2023-10-25 15:04:17.947 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', '~b', '~c', 'true', 'b', '~c'), 
+	LabelJoin: (true) & (~b) & (~c) & (true) & (b) & (~c), 
+	Label: False
+2023-10-25 15:04:17.955 | DEBUG    | translate:union_product:309 - [('2', '1', '1', '2', '1', '1')] 
+	Guard: ('true', '~b', '~c', 'true', 'b', 'c'), 
+	LabelJoin: (true) & (~b) & (~c) & (true) & (b) & (c), 
+	Label: False
+2023-10-25 15:04:17.960 | DEBUG    | translate:union_product:309 - [('2', '1', '2', '2', '1', '2')] 
+	Guard: ('true', 'b', 'true', 'true', '~b', 'true'), 
+	LabelJoin: (true) & (b) & (true) & (true) & (~b) & (true), 
+	Label: False
+2023-10-25 15:04:17.963 | DEBUG    | translate:union_product:309 - [('2', '1', '2', '2', '1', '2')] 
+	Guard: ('true', 'b', 'true', 'true', 'b', 'true'), 
+	LabelJoin: (true) & (b) & (true) & (true) & (b) & (true), 
+	Label: b
+2023-10-25 15:04:17.967 | DEBUG    | translate:union_product:309 - [('2', '1', '2', '2', '1', '2')] 
+	Guard: ('true', '~b', 'true', 'true', '~b', 'true'), 
+	LabelJoin: (true) & (~b) & (true) & (true) & (~b) & (true), 
+	Label: ~b
+2023-10-25 15:04:17.973 | DEBUG    | translate:union_product:309 - [('2', '1', '2', '2', '1', '2')] 
+	Guard: ('true', '~b', 'true', 'true', 'b', 'true'), 
+	LabelJoin: (true) & (~b) & (true) & (true) & (b) & (true), 
+	Label: False
+2023-10-25 15:04:17.978 | DEBUG    | translate:union_product:309 - [('2', '2', '1', '2', '2', '1')] 
+	Guard: ('true', 'true', 'c', 'true', 'true', '~c'), 
+	LabelJoin: (true) & (true) & (c) & (true) & (true) & (~c), 
+	Label: False
+2023-10-25 15:04:17.981 | DEBUG    | translate:union_product:309 - [('2', '2', '1', '2', '2', '1')] 
+	Guard: ('true', 'true', 'c', 'true', 'true', 'c'), 
+	LabelJoin: (true) & (true) & (c) & (true) & (true) & (c), 
+	Label: c
+2023-10-25 15:04:17.984 | DEBUG    | translate:union_product:309 - [('2', '2', '1', '2', '2', '1')] 
+	Guard: ('true', 'true', '~c', 'true', 'true', '~c'), 
+	LabelJoin: (true) & (true) & (~c) & (true) & (true) & (~c), 
+	Label: ~c
+2023-10-25 15:04:17.990 | DEBUG    | translate:union_product:309 - [('2', '2', '1', '2', '2', '1')] 
+	Guard: ('true', 'true', '~c', 'true', 'true', 'c'), 
+	LabelJoin: (true) & (true) & (~c) & (true) & (true) & (c), 
+	Label: False
+2023-10-25 15:04:17.992 | DEBUG    | translate:union_product:309 - [('2', '2', '2', '2', '2', '2')] 
+	Guard: ('true', 'true', 'true', 'true', 'true', 'true'), 
+	LabelJoin: (true) & (true) & (true) & (true) & (true) & (true), 
+	Label: True
+2023-10-25 15:04:17.995 | INFO     | translate:translate:228 - Union product DFA: 
+{'final_states': {0, 1, 2, 3, 4, 5, 6, 7},
+ 'init_state': 3,
+ 'states': {0: {'state': ('2', '1', '2', '2', '1', '2')},
+            1: {'state': ('1', '2', '1', '1', '2', '1')},
+            2: {'state': ('2', '2', '1', '2', '2', '1')},
+            3: {'state': ('1', '1', '1', '1', '1', '1')},
+            4: {'state': ('1', '2', '2', '1', '2', '2')},
+            5: {'state': ('2', '2', '2', '2', '2', '2')},
+            6: {'state': ('1', '1', '2', '1', '1', '2')},
+            7: {'state': ('2', '1', '1', '2', '1', '1')}},
+ 'transitions': {0: {'!b': 0, 'b': 5},
+                 1: {'!a & !c': 1, 'a & !c': 2, 'a & c': 5, 'c & !a': 4},
+                 2: {'!c': 2, 'c': 5},
+                 3: {'!a & !b & !c': 3,
+                     'a & !b & !c': 7,
+                     'a & b & !c': 2,
+                     'a & b & c': 5,
+                     'a & c & !b': 0,
+                     'b & !a & !c': 1,
+                     'b & c & !a': 4,
+                     'c & !a & !b': 6},
+                 4: {'!a': 4, 'a': 5},
+                 5: {'true': 5},
+                 6: {'!a & !b': 6, 'a & !b': 0, 'a & b': 5, 'b & !a': 4},
+                 7: {'!b & !c': 7, 'b & !c': 2, 'b & c': 5, 'c & !b': 0}}}
+2023-10-25 15:04:17.996 | DEBUG    | translate:construct_pref_graph:360 - outcomes(('2', '1', '2', '2', '1', '2'))={0, 2, 4}
+2023-10-25 15:04:17.996 | DEBUG    | translate:construct_pref_graph:363 - get_mp_outcomes({0, 2, 4}, [(0, 1), (1, 3), (4, 4), (0, 2), (2, 2), (0, 5), (0, 0), (3, 5), (5, 5), (1, 1), (2, 4), (0, 3), (1, 5), (0, 4), (3, 3)])={0}
+2023-10-25 15:04:17.997 | DEBUG    | translate:construct_pref_graph:360 - outcomes(('1', '2', '1', '1', '2', '1'))={1, 3, 5}
+2023-10-25 15:04:17.997 | DEBUG    | translate:construct_pref_graph:363 - get_mp_outcomes({1, 3, 5}, [(0, 1), (1, 3), (4, 4), (0, 2), (2, 2), (0, 5), (0, 0), (3, 5), (5, 5), (1, 1), (2, 4), (0, 3), (1, 5), (0, 4), (3, 3)])={1}
+2023-10-25 15:04:17.997 | DEBUG    | translate:construct_pref_graph:360 - outcomes(('2', '2', '1', '2', '2', '1'))={0, 1, 5}
+2023-10-25 15:04:17.998 | DEBUG    | translate:construct_pref_graph:363 - get_mp_outcomes({0, 1, 5}, [(0, 1), (1, 3), (4, 4), (0, 2), (2, 2), (0, 5), (0, 0), (3, 5), (5, 5), (1, 1), (2, 4), (0, 3), (1, 5), (0, 4), (3, 3)])={0}
+2023-10-25 15:04:17.998 | DEBUG    | translate:construct_pref_graph:360 - outcomes(('1', '1', '1', '1', '1', '1'))={3, 4, 5}
+2023-10-25 15:04:17.999 | DEBUG    | translate:construct_pref_graph:363 - get_mp_outcomes({3, 4, 5}, [(0, 1), (1, 3), (4, 4), (0, 2), (2, 2), (0, 5), (0, 0), (3, 5), (5, 5), (1, 1), (2, 4), (0, 3), (1, 5), (0, 4), (3, 3)])={3, 4}
+2023-10-25 15:04:17.999 | DEBUG    | translate:construct_pref_graph:360 - outcomes(('1', '2', '2', '1', '2', '2'))={1, 2, 3}
+2023-10-25 15:04:18.000 | DEBUG    | translate:construct_pref_graph:363 - get_mp_outcomes({1, 2, 3}, [(0, 1), (1, 3), (4, 4), (0, 2), (2, 2), (0, 5), (0, 0), (3, 5), (5, 5), (1, 1), (2, 4), (0, 3), (1, 5), (0, 4), (3, 3)])={1, 2}
+2023-10-25 15:04:18.000 | DEBUG    | translate:construct_pref_graph:360 - outcomes(('2', '2', '2', '2', '2', '2'))={0, 1, 2}
+2023-10-25 15:04:18.000 | DEBUG    | translate:construct_pref_graph:363 - get_mp_outcomes({0, 1, 2}, [(0, 1), (1, 3), (4, 4), (0, 2), (2, 2), (0, 5), (0, 0), (3, 5), (5, 5), (1, 1), (2, 4), (0, 3), (1, 5), (0, 4), (3, 3)])={0}
+2023-10-25 15:04:18.001 | DEBUG    | translate:construct_pref_graph:360 - outcomes(('1', '1', '2', '1', '1', '2'))={2, 3, 4}
+2023-10-25 15:04:18.001 | DEBUG    | translate:construct_pref_graph:363 - get_mp_outcomes({2, 3, 4}, [(0, 1), (1, 3), (4, 4), (0, 2), (2, 2), (0, 5), (0, 0), (3, 5), (5, 5), (1, 1), (2, 4), (0, 3), (1, 5), (0, 4), (3, 3)])={2, 3}
+2023-10-25 15:04:18.002 | DEBUG    | translate:construct_pref_graph:360 - outcomes(('2', '1', '1', '2', '1', '1'))={0, 4, 5}
+2023-10-25 15:04:18.002 | DEBUG    | translate:construct_pref_graph:363 - get_mp_outcomes({0, 4, 5}, [(0, 1), (1, 3), (4, 4), (0, 2), (2, 2), (0, 5), (0, 0), (3, 5), (5, 5), (1, 1), (2, 4), (0, 3), (1, 5), (0, 4), (3, 3)])={0}
+2023-10-25 15:04:18.006 | INFO     | translate:translate:231 - Preference graph: 
+{'edges': {'(0, 0, 0, 0, 0, 0)': {'(0, 0, 0, 0, 0, 0)',
+                                  '(0, 0, 0, 1, 1, 0)',
+                                  '(0, 0, 1, 1, 0, 0)',
+                                  '(0, 1, 0, 0, 0, 0)',
+                                  '(0, 1, 1, 0, 0, 0)',
+                                  '(1, 0, 0, 0, 0, 0)'},
+           '(0, 0, 0, 1, 1, 0)': {'(0, 0, 0, 1, 1, 0)',
+                                  '(0, 0, 1, 1, 0, 0)',
+                                  '(0, 1, 0, 0, 0, 0)',
+                                  '(0, 1, 1, 0, 0, 0)',
+                                  '(1, 0, 0, 0, 0, 0)'},
+           '(0, 0, 1, 1, 0, 0)': {'(0, 0, 1, 1, 0, 0)',
+                                  '(0, 1, 0, 0, 0, 0)',
+                                  '(0, 1, 1, 0, 0, 0)',
+                                  '(1, 0, 0, 0, 0, 0)'},
+           '(0, 1, 0, 0, 0, 0)': {'(1, 0, 0, 0, 0, 0)', '(0, 1, 0, 0, 0, 0)'},
+           '(0, 1, 1, 0, 0, 0)': {'(0, 1, 0, 0, 0, 0)',
+                                  '(0, 1, 1, 0, 0, 0)',
+                                  '(1, 0, 0, 0, 0, 0)'},
+           '(1, 0, 0, 0, 0, 0)': {'(1, 0, 0, 0, 0, 0)'}},
+ 'nodes': {'(0, 0, 0, 0, 0, 0)': set(),
+           '(0, 0, 0, 1, 1, 0)': {3},
+           '(0, 0, 1, 1, 0, 0)': {6},
+           '(0, 1, 0, 0, 0, 0)': {1},
+           '(0, 1, 1, 0, 0, 0)': {4},
+           '(1, 0, 0, 0, 0, 0)': {0, 2, 5, 7}}}
+2023-10-25 15:04:18.228 | INFO     | app:update_images:215 - ====== TRANSLATION COMPLETED IN 1661.078 MILLISECONDS =====
+2023-10-25 15:04:18.230 | INFO     | app:update_images:216 - States:
+{0: {'state': ('2', '1', '2', '2', '1', '2')},
+ 1: {'state': ('1', '2', '1', '1', '2', '1')},
+ 2: {'state': ('2', '2', '1', '2', '2', '1')},
+ 3: {'state': ('1', '1', '1', '1', '1', '1')},
+ 4: {'state': ('1', '2', '2', '1', '2', '2')},
+ 5: {'state': ('2', '2', '2', '2', '2', '2')},
+ 6: {'state': ('1', '1', '2', '1', '1', '2')},
+ 7: {'state': ('2', '1', '1', '2', '1', '1')}}
+
+Alphabet:
+[set(), {'a'}, {'b'}, {'c'}]
+
+Transitions:
+{0: {'!b': 0, 'b': 5},
+ 1: {'!a & !c': 1, 'a & !c': 2, 'c & !a': 4},
+ 2: {'!c': 2, 'c': 5},
+ 3: {'!a & !b & !c': 3, 'a & !b & !c': 7, 'b & !a & !c': 1, 'c & !a & !b': 6},
+ 4: {'!a': 4, 'a': 5},
+ 5: {'true': 5},
+ 6: {'!a & !b': 6, 'a & !b': 0, 'b & !a': 4},
+ 7: {'!b & !c': 7, 'b & !c': 2, 'c & !b': 0}}
+
+Initial state:
+3
+
+Preference graph:
+{'edges': {'(0, 0, 0, 1, 1, 0)': {'(0, 0, 0, 1, 1, 0)',
+                                  '(0, 0, 1, 1, 0, 0)',
+                                  '(0, 1, 0, 0, 0, 0)',
+                                  '(0, 1, 1, 0, 0, 0)',
+                                  '(1, 0, 0, 0, 0, 0)'},
+           '(0, 0, 1, 1, 0, 0)': {'(0, 0, 1, 1, 0, 0)',
+                                  '(0, 1, 0, 0, 0, 0)',
+                                  '(0, 1, 1, 0, 0, 0)',
+                                  '(1, 0, 0, 0, 0, 0)'},
+           '(0, 1, 0, 0, 0, 0)': {'(1, 0, 0, 0, 0, 0)', '(0, 1, 0, 0, 0, 0)'},
+           '(0, 1, 1, 0, 0, 0)': {'(0, 1, 0, 0, 0, 0)',
+                                  '(0, 1, 1, 0, 0, 0)',
+                                  '(1, 0, 0, 0, 0, 0)'},
+           '(1, 0, 0, 0, 0, 0)': {'(1, 0, 0, 0, 0, 0)'}},
+ 'nodes': {'(0, 0, 0, 1, 1, 0)': {3},
+           '(0, 0, 1, 1, 0, 0)': {6},
+           '(0, 1, 0, 0, 0, 0)': {1},
+           '(0, 1, 1, 0, 0, 0)': {4},
+           '(1, 0, 0, 0, 0, 0)': {0, 2, 5, 7}}}
+
+
